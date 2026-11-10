@@ -1,6 +1,7 @@
-# Top 10 in Canada for Glider's Movies and Series pages. Lives in RivaeStrategy/glider-download as
-# .github/workflows/charts.yml (a public repo, so Actions cost nothing there), next to
-# charts/top10.py. The copies in tuner-iptv's tools/charts are the ones to edit.
+# Glider's Top 10s (Movies and Series pages) and Top 15 trending (Home). Lives in
+# RivaeStrategy/glider-download as .github/workflows/charts.yml (a public repo, so Actions cost
+# nothing there), next to charts/top10.py and charts/trending.py. The copies in tuner-iptv's
+# tools/charts are the ones to edit. Needs the OMDB_KEY secret in that repo.
 name: Top 10 charts
 
 on:
@@ -22,10 +23,12 @@ concurrency:
 jobs:
   charts:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
       - name: Fetch the charts
+        env:
+          OMDB_KEY: ${{ secrets.OMDB_KEY }}
         run: python3 charts/top10.py charts-ca.json
       - name: Save if they changed
         run: |
