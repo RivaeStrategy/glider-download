@@ -1,250 +1,1261 @@
 {
- "version": 1,
+ "version": 2,
  "country": "CA",
- "netflixWeek": "2026-11-01",
+ "netflixWeek": "2026-11-08",
  "movies": [
-  {
-   "title": "The Addams Family",
-   "year": null,
-   "source": "Netflix",
-   "rank": 1
-  },
   {
    "title": "Resident Evil",
    "year": "2026",
+   "kind": "movie",
+   "points": 24.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #1",
+    "Apple TV US #1",
+    "Simkl #1"
+   ],
    "source": "Apple TV",
    "rank": 1
   },
   {
-   "title": "Collision Course",
-   "year": null,
-   "source": "Netflix",
-   "rank": 2
+   "title": "Heart of the Beast",
+   "year": "2026",
+   "kind": "movie",
+   "points": 19.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #3",
+    "Apple TV US #2",
+    "Simkl #4"
+   ],
+   "source": "Apple TV",
+   "rank": 3
   },
   {
    "title": "Spider-Man: Brand New Day",
    "year": "2026",
+   "kind": "movie",
+   "points": 18.6,
+   "score": null,
+   "charts": [
+    "Apple TV CA #2",
+    "Apple TV US #3",
+    "Simkl #5"
+   ],
    "source": "Apple TV",
    "rank": 2
   },
   {
-   "title": "Surviving Hurricane Otis",
-   "year": null,
-   "source": "Netflix",
-   "rank": 3
-  },
-  {
    "title": "Primetime",
    "year": "2026",
+   "kind": "movie",
+   "points": 16.6,
+   "score": null,
+   "charts": [
+    "Apple TV CA #5",
+    "Apple TV US #4",
+    "Simkl #3"
+   ],
    "source": "Apple TV",
-   "rank": 3
+   "rank": 5
   },
   {
-   "title": "The Addams Family 2",
+   "title": "A Dog's Perfect Christmas",
    "year": null,
+   "kind": "movie",
+   "points": 14.8,
+   "score": null,
+   "charts": [
+    "Netflix CA #1",
+    "Netflix US #3"
+   ],
    "source": "Netflix",
-   "rank": 4
+   "rank": 1
   },
   {
    "title": "Godzilla Minus One",
    "year": "2023",
+   "kind": "movie",
+   "points": 10.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #4",
+    "Apple TV US #6"
+   ],
    "source": "Apple TV",
    "rank": 4
   },
   {
-   "title": "Animals",
+   "title": "Collision Course",
    "year": null,
+   "kind": "movie",
+   "points": 9.6,
+   "score": null,
+   "charts": [
+    "Netflix CA #5",
+    "Netflix US #5"
+   ],
    "source": "Netflix",
    "rank": 5
   },
   {
-   "title": "Coyote vs. Acme",
+   "title": "Final Destination: Bloodlines",
+   "year": null,
+   "kind": "movie",
+   "points": 9.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #2"
+   ],
+   "source": "Netflix",
+   "rank": 2
+  },
+  {
+   "title": "Musk",
    "year": "2026",
+   "kind": "movie",
+   "points": 8.6,
+   "score": null,
+   "charts": [
+    "Apple TV CA #6",
+    "Apple TV US #5"
+   ],
    "source": "Apple TV",
-   "rank": 5
+   "rank": 6
   },
   {
-   "title": "Gajab Raat",
+   "title": "The Hobbit: An Unexpected Journey",
    "year": null,
+   "kind": "movie",
+   "points": 8.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #3"
+   ],
    "source": "Netflix",
-   "rank": 6
+   "rank": 3
   },
   {
    "title": "Verity",
    "year": "2026",
+   "kind": "movie",
+   "points": 7.8,
+   "score": null,
+   "charts": [
+    "Apple TV CA #8",
+    "Apple TV US #7",
+    "Simkl #8"
+   ],
    "source": "Apple TV",
+   "rank": 8
+  },
+  {
+   "title": "The Odyssey",
+   "year": "2026",
+   "kind": "movie",
+   "points": 7.2,
+   "score": null,
+   "charts": [
+    "Simkl #2"
+   ],
+   "source": "Simkl",
+   "rank": 2
+  },
+  {
+   "title": "Heist",
+   "year": null,
+   "kind": "movie",
+   "points": 7.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #4"
+   ],
+   "source": "Netflix",
+   "rank": 4
+  },
+  {
+   "title": "The Day After Tomorrow",
+   "year": null,
+   "kind": "movie",
+   "points": 6.0,
+   "score": null,
+   "charts": [
+    "Netflix US #1"
+   ],
+   "source": "Netflix US",
+   "rank": 1
+  },
+  {
+   "title": "Kidnapped in Her Own Home: The Martha Carelli Story",
+   "year": null,
+   "kind": "movie",
+   "points": 5.4,
+   "score": null,
+   "charts": [
+    "Netflix US #2"
+   ],
+   "source": "Netflix US",
+   "rank": 2
+  },
+  {
+   "title": "Coyote vs. Acme",
+   "year": "2026",
+   "kind": "movie",
+   "points": 5.2,
+   "score": null,
+   "charts": [
+    "Apple TV CA #7",
+    "Apple TV US #9"
+   ],
+   "source": "Apple TV",
+   "rank": 7
+  },
+  {
+   "title": "The Hobbit: The Desolation of Smaug",
+   "year": null,
+   "kind": "movie",
+   "points": 5.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #6"
+   ],
+   "source": "Netflix",
    "rank": 6
+  },
+  {
+   "title": "The Croods",
+   "year": null,
+   "kind": "movie",
+   "points": 4.2,
+   "score": null,
+   "charts": [
+    "Netflix US #4"
+   ],
+   "source": "Netflix US",
+   "rank": 4
+  },
+  {
+   "title": "A Story of Derry",
+   "year": "2026",
+   "kind": "movie",
+   "points": 4.0,
+   "score": null,
+   "charts": [
+    "Simkl #6"
+   ],
+   "source": "Simkl",
+   "rank": 6
+  },
+  {
+   "title": "The Hobbit: The Battle of the Five Armies",
+   "year": null,
+   "kind": "movie",
+   "points": 4.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #7"
+   ],
+   "source": "Netflix",
+   "rank": 7
+  },
+  {
+   "title": "The Dog Stars",
+   "year": "2026",
+   "kind": "movie",
+   "points": 3.2,
+   "score": null,
+   "charts": [
+    "Simkl #7"
+   ],
+   "source": "Simkl",
+   "rank": 7
+  },
+  {
+   "title": "King Arthur: Legend of the Sword",
+   "year": null,
+   "kind": "movie",
+   "points": 3.0,
+   "score": null,
+   "charts": [
+    "Netflix US #6"
+   ],
+   "source": "Netflix US",
+   "rank": 6
+  },
+  {
+   "title": "The Holiday",
+   "year": null,
+   "kind": "movie",
+   "points": 3.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #8"
+   ],
+   "source": "Netflix",
+   "rank": 8
+  },
+  {
+   "title": "The Mummy",
+   "year": null,
+   "kind": "movie",
+   "points": 2.4,
+   "score": null,
+   "charts": [
+    "Netflix US #7"
+   ],
+   "source": "Netflix US",
+   "rank": 7
   },
   {
    "title": "SCTV: The Greatest Show You've Never Heard Of",
    "year": null,
+   "kind": "movie",
+   "points": 2.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #9"
+   ],
    "source": "Netflix",
-   "rank": 7
+   "rank": 9
   },
   {
    "title": "The Invite",
    "year": "2026",
+   "kind": "movie",
+   "points": 2.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #9"
+   ],
    "source": "Apple TV",
-   "rank": 7
+   "rank": 9
   },
   {
-   "title": "Hubie Halloween",
+   "title": "Don't Trust the Couple Upstairs",
    "year": null,
-   "source": "Netflix",
+   "kind": "movie",
+   "points": 1.8,
+   "score": null,
+   "charts": [
+    "Netflix US #8"
+   ],
+   "source": "Netflix US",
+   "rank": 8
+  },
+  {
+   "title": "Sense and Sensibility",
+   "year": "2026",
+   "kind": "movie",
+   "points": 1.8,
+   "score": null,
+   "charts": [
+    "Apple TV US #8"
+   ],
+   "source": "Apple TV US",
    "rank": 8
   },
   {
    "title": "The End of Oak Street",
    "year": "2026",
-   "source": "Apple TV",
-   "rank": 8
-  },
-  {
-   "title": "Final Destination: Bloodlines",
-   "year": null,
-   "source": "Netflix",
-   "rank": 9
-  },
-  {
-   "title": "Sense and Sensibility",
-   "year": "2026",
-   "source": "Apple TV",
-   "rank": 9
-  },
-  {
-   "title": "Money Train",
-   "year": null,
-   "source": "Netflix",
-   "rank": 10
-  },
-  {
-   "title": "Runner",
-   "year": "2026",
+   "kind": "movie",
+   "points": 1.6,
+   "score": null,
+   "charts": [
+    "Apple TV CA #10",
+    "Apple TV US #10"
+   ],
    "source": "Apple TV",
    "rank": 10
+  },
+  {
+   "title": "The Mongoose",
+   "year": "2026",
+   "kind": "movie",
+   "points": 1.6,
+   "score": null,
+   "charts": [
+    "Simkl #9"
+   ],
+   "source": "Simkl",
+   "rank": 9
   }
  ],
  "shows": [
   {
-   "title": "The One About Matthew Perry",
+   "title": "Taken: Natalee Holloway",
    "year": null,
+   "kind": "series",
+   "points": 16.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #1",
+    "Netflix US #1"
+   ],
    "source": "Netflix",
    "rank": 1
   },
   {
-   "title": "Seeking Persephone",
+   "title": "The One About Matthew Perry",
    "year": null,
-   "source": "Apple TV",
-   "rank": 1
+   "kind": "series",
+   "points": 14.4,
+   "score": null,
+   "charts": [
+    "Netflix CA #2",
+    "Netflix US #2"
+   ],
+   "source": "Netflix",
+   "rank": 2
   },
   {
    "title": "Nobody Wants This",
    "year": null,
+   "kind": "series",
+   "points": 12.8,
+   "score": null,
+   "charts": [
+    "Netflix CA #3",
+    "Netflix US #3"
+   ],
+   "source": "Netflix",
+   "rank": 3
+  },
+  {
+   "title": "MobLand",
+   "year": "2025",
+   "kind": "series",
+   "points": 10.5,
+   "score": 83,
+   "charts": [
+    "Apple TV CA #10",
+    "Simkl #2"
+   ],
+   "source": "Apple TV",
+   "rank": 10
+  },
+  {
+   "title": "Grey’s Anatomy",
+   "year": "2005",
+   "kind": "series",
+   "points": 10.4,
+   "score": 76,
+   "charts": [
+    "Apple TV CA #3",
+    "Simkl #10"
+   ],
+   "source": "Apple TV",
+   "rank": 3
+  },
+  {
+   "title": "From",
+   "year": null,
+   "kind": "series",
+   "points": 10.2,
+   "score": null,
+   "charts": [
+    "Netflix US #4",
+    "Apple TV US #1"
+   ],
+   "source": "Netflix US",
+   "rank": 4
+  },
+  {
+   "title": "Seeking Persephone",
+   "year": null,
+   "kind": "series",
+   "points": 10.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #1"
+   ],
+   "source": "Apple TV",
+   "rank": 1
+  },
+  {
+   "title": "VisionQuest",
+   "year": "2026",
+   "kind": "series",
+   "points": 9.8,
+   "score": 78,
+   "charts": [
+    "Simkl #1"
+   ],
+   "source": "Simkl",
+   "rank": 1
+  },
+  {
+   "title": "Dexter: Resurrection",
+   "year": "2025",
+   "kind": "series",
+   "points": 9.4,
+   "score": 90,
+   "charts": [
+    "Simkl #3"
+   ],
+   "source": "Simkl",
+   "rank": 3
+  },
+  {
+   "title": "Love Is Blind",
+   "year": null,
+   "kind": "series",
+   "points": 9.4,
+   "score": null,
+   "charts": [
+    "Netflix CA #4",
+    "Netflix US #7"
+   ],
+   "source": "Netflix",
+   "rank": 4
+  },
+  {
+   "title": "Lord of the Flies",
+   "year": null,
+   "kind": "series",
+   "points": 9.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #2"
+   ],
+   "source": "Apple TV",
+   "rank": 2
+  },
+  {
+   "title": "Black Doves",
+   "year": "2024",
+   "kind": "series",
+   "points": 8.6,
+   "score": 72,
+   "charts": [
+    "Netflix CA #6",
+    "Simkl #8"
+   ],
+   "source": "Netflix",
+   "rank": 6
+  },
+  {
+   "title": "Tulsa King",
+   "year": "2022",
+   "kind": "series",
+   "points": 7.5,
+   "score": 79,
+   "charts": [
+    "Simkl #4"
+   ],
+   "source": "Simkl",
+   "rank": 4
+  },
+  {
+   "title": "Band of Brothers",
+   "year": null,
+   "kind": "series",
+   "points": 7.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #4"
+   ],
+   "source": "Apple TV",
+   "rank": 4
+  },
+  {
+   "title": "Scrubs",
+   "year": "2026",
+   "kind": "series",
+   "points": 7.0,
+   "score": 82,
+   "charts": [
+    "Simkl #5"
+   ],
+   "source": "Simkl",
+   "rank": 5
+  },
+  {
+   "title": "Abbott Elementary",
+   "year": "2021",
+   "kind": "series",
+   "points": 6.2,
+   "score": 82,
+   "charts": [
+    "Simkl #6"
+   ],
+   "source": "Simkl",
+   "rank": 6
+  },
+  {
+   "title": "A Couple of Lies",
+   "year": null,
+   "kind": "series",
+   "points": 6.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #5"
+   ],
+   "source": "Netflix",
+   "rank": 5
+  },
+  {
+   "title": "The Pitt",
+   "year": null,
+   "kind": "series",
+   "points": 6.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #5"
+   ],
+   "source": "Apple TV",
+   "rank": 5
+  },
+  {
+   "title": "Heated Rivalry",
+   "year": null,
+   "kind": "series",
+   "points": 5.8,
+   "score": null,
+   "charts": [
+    "Apple TV CA #7",
+    "Apple TV US #8"
+   ],
+   "source": "Apple TV",
+   "rank": 7
+  },
+  {
+   "title": "Power",
+   "year": null,
+   "kind": "series",
+   "points": 5.4,
+   "score": null,
+   "charts": [
+    "Apple TV US #2"
+   ],
+   "source": "Apple TV US",
+   "rank": 2
+  },
+  {
+   "title": "Law & Order: Special Victims Unit",
+   "year": null,
+   "kind": "series",
+   "points": 5.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #6"
+   ],
+   "source": "Apple TV",
+   "rank": 6
+  },
+  {
+   "title": "The Rainmaker",
+   "year": null,
+   "kind": "series",
+   "points": 4.8,
+   "score": null,
+   "charts": [
+    "Apple TV US #3"
+   ],
+   "source": "Apple TV US",
+   "rank": 3
+  },
+  {
+   "title": "Nocturne",
+   "year": "2026",
+   "kind": "series",
+   "points": 4.6,
+   "score": 74,
+   "charts": [
+    "Simkl #7"
+   ],
+   "source": "Simkl",
+   "rank": 7
+  },
+  {
+   "title": "Atlanta",
+   "year": null,
+   "kind": "series",
+   "points": 4.2,
+   "score": null,
+   "charts": [
+    "Apple TV US #4"
+   ],
+   "source": "Apple TV US",
+   "rank": 4
+  },
+  {
+   "title": "Instadocs: Jane Doe v. Cornell",
+   "year": null,
+   "kind": "series",
+   "points": 4.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #7"
+   ],
+   "source": "Netflix",
+   "rank": 7
+  },
+  {
+   "title": "Lanterns",
+   "year": null,
+   "kind": "series",
+   "points": 3.6,
+   "score": null,
+   "charts": [
+    "Apple TV US #5"
+   ],
+   "source": "Apple TV US",
+   "rank": 5
+  },
+  {
+   "title": "Raw",
+   "year": null,
+   "kind": "series",
+   "points": 3.6,
+   "score": null,
+   "charts": [
+    "Netflix US #5"
+   ],
+   "source": "Netflix US",
+   "rank": 5
+  },
+  {
+   "title": "Below",
+   "year": null,
+   "kind": "series",
+   "points": 3.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #8"
+   ],
+   "source": "Netflix",
+   "rank": 8
+  },
+  {
+   "title": "Mistletoe Murders",
+   "year": null,
+   "kind": "series",
+   "points": 3.0,
+   "score": null,
+   "charts": [
+    "Netflix US #6"
+   ],
+   "source": "Netflix US",
+   "rank": 6
+  },
+  {
+   "title": "The Tudors",
+   "year": null,
+   "kind": "series",
+   "points": 3.0,
+   "score": null,
+   "charts": [
+    "Apple TV US #6"
+   ],
+   "source": "Apple TV US",
+   "rank": 6
+  }
+ ],
+ "trending": [
+  {
+   "title": "Resident Evil",
+   "year": "2026",
+   "kind": "movie",
+   "points": 24.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #1",
+    "Apple TV US #1",
+    "Simkl #1"
+   ],
+   "source": "Apple TV",
+   "rank": 1
+  },
+  {
+   "title": "Heart of the Beast",
+   "year": "2026",
+   "kind": "movie",
+   "points": 19.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #3",
+    "Apple TV US #2",
+    "Simkl #4"
+   ],
+   "source": "Apple TV",
+   "rank": 3
+  },
+  {
+   "title": "Spider-Man: Brand New Day",
+   "year": "2026",
+   "kind": "movie",
+   "points": 18.6,
+   "score": null,
+   "charts": [
+    "Apple TV CA #2",
+    "Apple TV US #3",
+    "Simkl #5"
+   ],
+   "source": "Apple TV",
+   "rank": 2
+  },
+  {
+   "title": "Primetime",
+   "year": "2026",
+   "kind": "movie",
+   "points": 16.6,
+   "score": null,
+   "charts": [
+    "Apple TV CA #5",
+    "Apple TV US #4",
+    "Simkl #3"
+   ],
+   "source": "Apple TV",
+   "rank": 5
+  },
+  {
+   "title": "Taken: Natalee Holloway",
+   "year": null,
+   "kind": "series",
+   "points": 16.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #1",
+    "Netflix US #1"
+   ],
+   "source": "Netflix",
+   "rank": 1
+  },
+  {
+   "title": "A Dog's Perfect Christmas",
+   "year": null,
+   "kind": "movie",
+   "points": 14.8,
+   "score": null,
+   "charts": [
+    "Netflix CA #1",
+    "Netflix US #3"
+   ],
+   "source": "Netflix",
+   "rank": 1
+  },
+  {
+   "title": "The One About Matthew Perry",
+   "year": null,
+   "kind": "series",
+   "points": 14.4,
+   "score": null,
+   "charts": [
+    "Netflix CA #2",
+    "Netflix US #2"
+   ],
+   "source": "Netflix",
+   "rank": 2
+  },
+  {
+   "title": "Nobody Wants This",
+   "year": null,
+   "kind": "series",
+   "points": 12.8,
+   "score": null,
+   "charts": [
+    "Netflix CA #3",
+    "Netflix US #3"
+   ],
+   "source": "Netflix",
+   "rank": 3
+  },
+  {
+   "title": "MobLand",
+   "year": "2025",
+   "kind": "series",
+   "points": 10.5,
+   "score": 83,
+   "charts": [
+    "Apple TV CA #10",
+    "Simkl #2"
+   ],
+   "source": "Apple TV",
+   "rank": 10
+  },
+  {
+   "title": "Grey’s Anatomy",
+   "year": "2005",
+   "kind": "series",
+   "points": 10.4,
+   "score": 76,
+   "charts": [
+    "Apple TV CA #3",
+    "Simkl #10"
+   ],
+   "source": "Apple TV",
+   "rank": 3
+  },
+  {
+   "title": "From",
+   "year": null,
+   "kind": "series",
+   "points": 10.2,
+   "score": null,
+   "charts": [
+    "Netflix US #4",
+    "Apple TV US #1"
+   ],
+   "source": "Netflix US",
+   "rank": 4
+  },
+  {
+   "title": "Godzilla Minus One",
+   "year": "2023",
+   "kind": "movie",
+   "points": 10.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #4",
+    "Apple TV US #6"
+   ],
+   "source": "Apple TV",
+   "rank": 4
+  },
+  {
+   "title": "Seeking Persephone",
+   "year": null,
+   "kind": "series",
+   "points": 10.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #1"
+   ],
+   "source": "Apple TV",
+   "rank": 1
+  },
+  {
+   "title": "VisionQuest",
+   "year": "2026",
+   "kind": "series",
+   "points": 9.8,
+   "score": 78,
+   "charts": [
+    "Simkl #1"
+   ],
+   "source": "Simkl",
+   "rank": 1
+  },
+  {
+   "title": "Collision Course",
+   "year": null,
+   "kind": "movie",
+   "points": 9.6,
+   "score": null,
+   "charts": [
+    "Netflix CA #5",
+    "Netflix US #5"
+   ],
+   "source": "Netflix",
+   "rank": 5
+  },
+  {
+   "title": "Dexter: Resurrection",
+   "year": "2025",
+   "kind": "series",
+   "points": 9.4,
+   "score": 90,
+   "charts": [
+    "Simkl #3"
+   ],
+   "source": "Simkl",
+   "rank": 3
+  },
+  {
+   "title": "Love Is Blind",
+   "year": null,
+   "kind": "series",
+   "points": 9.4,
+   "score": null,
+   "charts": [
+    "Netflix CA #4",
+    "Netflix US #7"
+   ],
+   "source": "Netflix",
+   "rank": 4
+  },
+  {
+   "title": "Final Destination: Bloodlines",
+   "year": null,
+   "kind": "movie",
+   "points": 9.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #2"
+   ],
    "source": "Netflix",
    "rank": 2
   },
   {
    "title": "Lord of the Flies",
    "year": null,
+   "kind": "series",
+   "points": 9.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #2"
+   ],
    "source": "Apple TV",
    "rank": 2
   },
   {
-   "title": "Love Is Blind",
+   "title": "Black Doves",
+   "year": "2024",
+   "kind": "series",
+   "points": 8.6,
+   "score": 72,
+   "charts": [
+    "Netflix CA #6",
+    "Simkl #8"
+   ],
+   "source": "Netflix",
+   "rank": 6
+  },
+  {
+   "title": "Musk",
+   "year": "2026",
+   "kind": "movie",
+   "points": 8.6,
+   "score": null,
+   "charts": [
+    "Apple TV CA #6",
+    "Apple TV US #5"
+   ],
+   "source": "Apple TV",
+   "rank": 6
+  },
+  {
+   "title": "The Hobbit: An Unexpected Journey",
    "year": null,
+   "kind": "movie",
+   "points": 8.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #3"
+   ],
    "source": "Netflix",
    "rank": 3
   },
   {
-   "title": "Grey’s Anatomy",
-   "year": null,
+   "title": "Verity",
+   "year": "2026",
+   "kind": "movie",
+   "points": 7.8,
+   "score": null,
+   "charts": [
+    "Apple TV CA #8",
+    "Apple TV US #7",
+    "Simkl #8"
+   ],
    "source": "Apple TV",
-   "rank": 3
+   "rank": 8
   },
   {
-   "title": "Lupin",
+   "title": "Tulsa King",
+   "year": "2022",
+   "kind": "series",
+   "points": 7.5,
+   "score": 79,
+   "charts": [
+    "Simkl #4"
+   ],
+   "source": "Simkl",
+   "rank": 4
+  },
+  {
+   "title": "The Odyssey",
+   "year": "2026",
+   "kind": "movie",
+   "points": 7.2,
+   "score": null,
+   "charts": [
+    "Simkl #2"
+   ],
+   "source": "Simkl",
+   "rank": 2
+  },
+  {
+   "title": "Band of Brothers",
    "year": null,
+   "kind": "series",
+   "points": 7.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #4"
+   ],
+   "source": "Apple TV",
+   "rank": 4
+  },
+  {
+   "title": "Heist",
+   "year": null,
+   "kind": "movie",
+   "points": 7.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #4"
+   ],
    "source": "Netflix",
    "rank": 4
+  },
+  {
+   "title": "Scrubs",
+   "year": "2026",
+   "kind": "series",
+   "points": 7.0,
+   "score": 82,
+   "charts": [
+    "Simkl #5"
+   ],
+   "source": "Simkl",
+   "rank": 5
+  },
+  {
+   "title": "Abbott Elementary",
+   "year": "2021",
+   "kind": "series",
+   "points": 6.2,
+   "score": 82,
+   "charts": [
+    "Simkl #6"
+   ],
+   "source": "Simkl",
+   "rank": 6
+  },
+  {
+   "title": "A Couple of Lies",
+   "year": null,
+   "kind": "series",
+   "points": 6.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #5"
+   ],
+   "source": "Netflix",
+   "rank": 5
+  },
+  {
+   "title": "The Day After Tomorrow",
+   "year": null,
+   "kind": "movie",
+   "points": 6.0,
+   "score": null,
+   "charts": [
+    "Netflix US #1"
+   ],
+   "source": "Netflix US",
+   "rank": 1
   },
   {
    "title": "The Pitt",
    "year": null,
-   "source": "Apple TV",
-   "rank": 4
-  },
-  {
-   "title": "Instadocs: Jane Doe v. Cornell",
-   "year": null,
-   "source": "Netflix",
-   "rank": 5
-  },
-  {
-   "title": "The Five-Star Weekend",
-   "year": null,
+   "kind": "series",
+   "points": 6.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #5"
+   ],
    "source": "Apple TV",
    "rank": 5
-  },
-  {
-   "title": "Below",
-   "year": null,
-   "source": "Netflix",
-   "rank": 6
-  },
-  {
-   "title": "Law & Order: Special Victims Unit",
-   "year": null,
-   "source": "Apple TV",
-   "rank": 6
-  },
-  {
-   "title": "The Diplomat",
-   "year": null,
-   "source": "Netflix",
-   "rank": 7
-  },
-  {
-   "title": "MobLand",
-   "year": null,
-   "source": "Apple TV",
-   "rank": 7
-  },
-  {
-   "title": "The Fall of El Mayo",
-   "year": null,
-   "source": "Netflix",
-   "rank": 8
-  },
-  {
-   "title": "Outlander",
-   "year": null,
-   "source": "Apple TV",
-   "rank": 8
-  },
-  {
-   "title": "Minimum Wage",
-   "year": null,
-   "source": "Netflix",
-   "rank": 9
-  },
-  {
-   "title": "World War II with Tom Hanks",
-   "year": null,
-   "source": "Apple TV",
-   "rank": 9
-  },
-  {
-   "title": "Raw",
-   "year": null,
-   "source": "Netflix",
-   "rank": 10
   },
   {
    "title": "Heated Rivalry",
    "year": null,
+   "kind": "series",
+   "points": 5.8,
+   "score": null,
+   "charts": [
+    "Apple TV CA #7",
+    "Apple TV US #8"
+   ],
    "source": "Apple TV",
-   "rank": 10
+   "rank": 7
+  },
+  {
+   "title": "Kidnapped in Her Own Home: The Martha Carelli Story",
+   "year": null,
+   "kind": "movie",
+   "points": 5.4,
+   "score": null,
+   "charts": [
+    "Netflix US #2"
+   ],
+   "source": "Netflix US",
+   "rank": 2
+  },
+  {
+   "title": "Power",
+   "year": null,
+   "kind": "series",
+   "points": 5.4,
+   "score": null,
+   "charts": [
+    "Apple TV US #2"
+   ],
+   "source": "Apple TV US",
+   "rank": 2
+  },
+  {
+   "title": "Coyote vs. Acme",
+   "year": "2026",
+   "kind": "movie",
+   "points": 5.2,
+   "score": null,
+   "charts": [
+    "Apple TV CA #7",
+    "Apple TV US #9"
+   ],
+   "source": "Apple TV",
+   "rank": 7
+  },
+  {
+   "title": "Law & Order: Special Victims Unit",
+   "year": null,
+   "kind": "series",
+   "points": 5.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #6"
+   ],
+   "source": "Apple TV",
+   "rank": 6
+  },
+  {
+   "title": "The Hobbit: The Desolation of Smaug",
+   "year": null,
+   "kind": "movie",
+   "points": 5.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #6"
+   ],
+   "source": "Netflix",
+   "rank": 6
+  },
+  {
+   "title": "The Rainmaker",
+   "year": null,
+   "kind": "series",
+   "points": 4.8,
+   "score": null,
+   "charts": [
+    "Apple TV US #3"
+   ],
+   "source": "Apple TV US",
+   "rank": 3
+  },
+  {
+   "title": "Nocturne",
+   "year": "2026",
+   "kind": "series",
+   "points": 4.6,
+   "score": 74,
+   "charts": [
+    "Simkl #7"
+   ],
+   "source": "Simkl",
+   "rank": 7
   }
  ],
- "updated": "2026-11-10T07:15:38Z"
+ "updated": "2026-11-10T23:25:40Z"
 }
