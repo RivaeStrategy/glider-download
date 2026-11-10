@@ -1,12 +1,15 @@
-# Top 10 in Canada for Glider's Home. Lives in RivaeStrategy/glider-download as
+# Top 10 in Canada for Glider's Movies and Series pages. Lives in RivaeStrategy/glider-download as
 # .github/workflows/charts.yml (a public repo, so Actions cost nothing there), next to
 # charts/top10.py. The copies in tuner-iptv's tools/charts are the ones to edit.
 name: Top 10 charts
 
 on:
   schedule:
-    # Twice a day: Apple's charts change daily, Netflix's on Tuesdays.
-    - cron: "23 6,18 * * *"
+    # Tuesday afternoon, after Netflix posts the week's Top 10 (5 pm Eastern), and Friday
+    # morning (6 am Eastern), which also catches a late Netflix week. Apple's chart is taken
+    # as it stands at each run.
+    - cron: "0 22 * * 2"
+    - cron: "0 11 * * 5"
   workflow_dispatch:
 
 permissions:

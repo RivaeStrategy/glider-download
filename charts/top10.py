@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Top 10 in Canada for Glider's Home: Netflix's weekly Top 10 and Apple's iTunes store charts,
-zipped together (Netflix #1, Apple #1, Netflix #2, Apple #2, ...), one list for movies and one
-for shows. A title on both lists shows once, where it comes first.
+"""Top 10 in Canada for Glider's Movies and Series pages: Netflix's weekly Top 10 and Apple's
+iTunes store charts, zipped together (Netflix #1, Apple #1, Netflix #2, Apple #2, ...), one list
+for movies and one for shows. A title on both lists shows once, where it comes first.
 
-Runs in the public glider-download repo (GitHub Actions, free there) and writes charts-ca.json,
-which the apps read from raw.githubusercontent.com. Stdlib and curl only. Usage: top10.py OUT.json
+Runs in the public glider-download repo (GitHub Actions, free there) on Tuesdays and Fridays and
+writes charts-ca.json, which the apps read from raw.githubusercontent.com. Stdlib and curl only.
+Usage: top10.py OUT.json
 
 Exits without writing when a source fails, so the apps keep the last good file.
 """
