@@ -1,0 +1,33 @@
+# Top 10 in Canada for Glider's Home. Lives in RivaeStrategy/glider-download as
+# .github/workflows/charts.yml (a public repo, so Actions cost nothing there), next to
+# charts/top10.py. The copies in tuner-iptv's tools/charts are the ones to edit.
+name: Top 10 charts
+
+on:
+  schedule:
+    # Twice a day: Apple's charts change daily, Netflix's on Tuesdays.
+    - cron: "23 6,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: charts
+  cancel-in-progress: false
+
+jobs:
+  charts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch the charts
+        run: python3 charts/top10.py charts-ca.json
+      - name: Save if they changed
+        run: |
+          git add charts-ca.json
+          if git diff --cached --quiet; then echo "No change"; exit 0; fi
+          git -c user.name="glider-charts" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -m "Top 10 charts: $(date -u +%Y-%m-%d)"
+          git push
