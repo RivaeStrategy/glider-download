@@ -1,0 +1,250 @@
+{
+ "version": 1,
+ "country": "CA",
+ "netflixWeek": "2026-11-01",
+ "movies": [
+  {
+   "title": "The Addams Family",
+   "year": null,
+   "source": "Netflix",
+   "rank": 1
+  },
+  {
+   "title": "Resident Evil",
+   "year": "2026",
+   "source": "Apple TV",
+   "rank": 1
+  },
+  {
+   "title": "Collision Course",
+   "year": null,
+   "source": "Netflix",
+   "rank": 2
+  },
+  {
+   "title": "Spider-Man: Brand New Day",
+   "year": "2026",
+   "source": "Apple TV",
+   "rank": 2
+  },
+  {
+   "title": "Surviving Hurricane Otis",
+   "year": null,
+   "source": "Netflix",
+   "rank": 3
+  },
+  {
+   "title": "Primetime",
+   "year": "2026",
+   "source": "Apple TV",
+   "rank": 3
+  },
+  {
+   "title": "The Addams Family 2",
+   "year": null,
+   "source": "Netflix",
+   "rank": 4
+  },
+  {
+   "title": "Godzilla Minus One",
+   "year": "2023",
+   "source": "Apple TV",
+   "rank": 4
+  },
+  {
+   "title": "Animals",
+   "year": null,
+   "source": "Netflix",
+   "rank": 5
+  },
+  {
+   "title": "Coyote vs. Acme",
+   "year": "2026",
+   "source": "Apple TV",
+   "rank": 5
+  },
+  {
+   "title": "Gajab Raat",
+   "year": null,
+   "source": "Netflix",
+   "rank": 6
+  },
+  {
+   "title": "Verity",
+   "year": "2026",
+   "source": "Apple TV",
+   "rank": 6
+  },
+  {
+   "title": "SCTV: The Greatest Show You've Never Heard Of",
+   "year": null,
+   "source": "Netflix",
+   "rank": 7
+  },
+  {
+   "title": "The Invite",
+   "year": "2026",
+   "source": "Apple TV",
+   "rank": 7
+  },
+  {
+   "title": "Hubie Halloween",
+   "year": null,
+   "source": "Netflix",
+   "rank": 8
+  },
+  {
+   "title": "The End of Oak Street",
+   "year": "2026",
+   "source": "Apple TV",
+   "rank": 8
+  },
+  {
+   "title": "Final Destination: Bloodlines",
+   "year": null,
+   "source": "Netflix",
+   "rank": 9
+  },
+  {
+   "title": "Sense and Sensibility",
+   "year": "2026",
+   "source": "Apple TV",
+   "rank": 9
+  },
+  {
+   "title": "Money Train",
+   "year": null,
+   "source": "Netflix",
+   "rank": 10
+  },
+  {
+   "title": "Runner",
+   "year": "2026",
+   "source": "Apple TV",
+   "rank": 10
+  }
+ ],
+ "shows": [
+  {
+   "title": "The One About Matthew Perry",
+   "year": null,
+   "source": "Netflix",
+   "rank": 1
+  },
+  {
+   "title": "Seeking Persephone",
+   "year": null,
+   "source": "Apple TV",
+   "rank": 1
+  },
+  {
+   "title": "Nobody Wants This",
+   "year": null,
+   "source": "Netflix",
+   "rank": 2
+  },
+  {
+   "title": "Lord of the Flies",
+   "year": null,
+   "source": "Apple TV",
+   "rank": 2
+  },
+  {
+   "title": "Love Is Blind",
+   "year": null,
+   "source": "Netflix",
+   "rank": 3
+  },
+  {
+   "title": "Grey’s Anatomy",
+   "year": null,
+   "source": "Apple TV",
+   "rank": 3
+  },
+  {
+   "title": "Lupin",
+   "year": null,
+   "source": "Netflix",
+   "rank": 4
+  },
+  {
+   "title": "The Pitt",
+   "year": null,
+   "source": "Apple TV",
+   "rank": 4
+  },
+  {
+   "title": "Instadocs: Jane Doe v. Cornell",
+   "year": null,
+   "source": "Netflix",
+   "rank": 5
+  },
+  {
+   "title": "The Five-Star Weekend",
+   "year": null,
+   "source": "Apple TV",
+   "rank": 5
+  },
+  {
+   "title": "Below",
+   "year": null,
+   "source": "Netflix",
+   "rank": 6
+  },
+  {
+   "title": "Law & Order: Special Victims Unit",
+   "year": null,
+   "source": "Apple TV",
+   "rank": 6
+  },
+  {
+   "title": "The Diplomat",
+   "year": null,
+   "source": "Netflix",
+   "rank": 7
+  },
+  {
+   "title": "MobLand",
+   "year": null,
+   "source": "Apple TV",
+   "rank": 7
+  },
+  {
+   "title": "The Fall of El Mayo",
+   "year": null,
+   "source": "Netflix",
+   "rank": 8
+  },
+  {
+   "title": "Outlander",
+   "year": null,
+   "source": "Apple TV",
+   "rank": 8
+  },
+  {
+   "title": "Minimum Wage",
+   "year": null,
+   "source": "Netflix",
+   "rank": 9
+  },
+  {
+   "title": "World War II with Tom Hanks",
+   "year": null,
+   "source": "Apple TV",
+   "rank": 9
+  },
+  {
+   "title": "Raw",
+   "year": null,
+   "source": "Netflix",
+   "rank": 10
+  },
+  {
+   "title": "Heated Rivalry",
+   "year": null,
+   "source": "Apple TV",
+   "rank": 10
+  }
+ ],
+ "updated": "2026-11-10T07:15:38Z"
+}
