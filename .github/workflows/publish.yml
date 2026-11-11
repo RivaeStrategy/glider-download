@@ -1,0 +1,17 @@
+name: Publish build 99 on the download page
+on:
+  push:
+    branches: [build-99]
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          printf '{"build":99}' > latest.json
+          gh release upload latest Glider.apk latest.json -R "$GITHUB_REPOSITORY" --clobber
+          gh release edit latest -R "$GITHUB_REPOSITORY" --title "Build 99" --notes "Glider build 99"
+        env:
+          GH_TOKEN: ${{ github.token }}
