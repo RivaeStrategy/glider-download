@@ -7,8 +7,8 @@ Both are out of 100 (IMDb's 8.4 counts as 84).
 
 Where it comes from: films with a recent release date and an IMDb id from Wikidata (CC0), season
 premieres from TVmaze's schedule (CC BY-SA), and the scores and US release dates from OMDb (the
-key is the OMDB_KEY secret). One OMDb request per candidate, at most about 300 a week, inside the
-key's 1,000 a day.
+key is the OMDB_KEY secret, shared with the apps' movie pages). Answers are kept between runs
+and a run asks at most 250 times (see omdb.py), so most runs ask only about new titles.
 
 Run on its own (OMDB_KEY=... trending.py) it prints the list.
 """
@@ -19,6 +19,9 @@ import sys
 import time
 import urllib.parse
 from datetime import date, datetime, timedelta, timezone
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # omdb.py sits next to this file
+import omdb as omdb_api  # noqa: E402
 
 WINDOW_DAYS = 60
 MOVIE_CANDIDATES = 160
@@ -38,8 +41,7 @@ def fetch(url, accept="application/json"):
 
 
 def omdb(imdb_id, key):
-    d = fetch(f"https://www.omdbapi.com/?i={imdb_id}&apikey={key}")
-    return d if d.get("Response") == "True" else None
+    return omdb_api.lookup({"i": imdb_id}, key)  # kept between runs (see omdb.py)
 
 
 def released(d):

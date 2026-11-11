@@ -1,7 +1,8 @@
 # Glider's Top 10s (Movies and Series pages) and Top 15 trending (Home). Lives in
 # RivaeStrategy/glider-download as .github/workflows/charts.yml (a public repo, so Actions cost
 # nothing there), next to charts/top10.py and charts/trending.py. The copies in tuner-iptv's
-# tools/charts are the ones to edit. Needs the OMDB_KEY secret in that repo.
+# tools/charts are the ones to edit (also omdb.py). Needs the OMDB_KEY secret in that repo.
+# charts/omdb-cache.json keeps OMDb's answers between runs; the job commits it with the charts.
 name: Top 10 charts
 
 on:
@@ -32,7 +33,7 @@ jobs:
         run: python3 charts/top10.py charts-ca.json
       - name: Save if they changed
         run: |
-          git add charts-ca.json
+          git add charts-ca.json charts/omdb-cache.json
           if git diff --cached --quiet; then echo "No change"; exit 0; fi
           git -c user.name="glider-charts" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
             commit -m "Top 10 charts: $(date -u +%Y-%m-%d)"

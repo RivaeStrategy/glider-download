@@ -26,10 +26,10 @@ import re
 import subprocess
 import sys
 import unicodedata
-import urllib.parse
 from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # trending.py sits next to this file
+import omdb as omdb_api  # noqa: E402
 import trending  # noqa: E402
 
 NETFLIX = "https://www.netflix.com/tudum/top10/data/all-weeks-countries.tsv"
@@ -38,7 +38,7 @@ SIMKL = "https://data.simkl.in/discover/trending/{kind}/week_100.json"
 PER_CHART = 10
 WEIGHTS = {"Netflix CA": 1.0, "Apple TV CA": 1.0, "Simkl": 0.8, "Netflix US": 0.6, "Apple TV US": 0.6}
 KEEP_PER_KIND = 30
-KEEP_TRENDING = 40
+KEEP_TRENDING = 60  # a playlist missing some still fills Home's 30
 
 
 def fetch(url):
@@ -115,15 +115,12 @@ def simkl(kind):
 
 
 def omdb_score(title, year, kind, omdb_key):
-    """Metacritic for a movie, IMDb (out of 100) for a show, or None."""
-    q = {"t": title, "type": kind, "apikey": omdb_key}
+    """Metacritic for a movie, IMDb (out of 100) for a show, or None. Kept between runs (omdb.py)."""
+    q = {"t": title, "type": kind}
     if year:
         q["y"] = year
-    try:
-        d = json.loads(fetch("https://www.omdbapi.com/?" + urllib.parse.urlencode(q)))
-    except (subprocess.CalledProcessError, ValueError):
-        return None
-    if d.get("Response") != "True":
+    d = omdb_api.lookup(q, omdb_key)
+    if not d:
         return None
     raw = d.get("Metascore") if kind == "movie" else d.get("imdbRating")
     try:
@@ -201,6 +198,8 @@ def main(path):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
         f.write("\n")
+    omdb_api.save()
+    print(f"OMDb: {omdb_api.asked} requests this run")
     print(f"week {week}: {len(out['movies'])} movies, {len(out['shows'])} shows, {len(out['trending'])} trending")
 
 
