@@ -230,6 +230,17 @@
 "imdbRating": "7.2",
 "imdbVotes": "24,675"
 },
+"i=tt0437700": {
+"Metascore": "N/A",
+"Released": "01 Jan 2000",
+"Title": "America's Test Kitchen",
+"Type": "series",
+"Year": "2000–",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "8.5",
+"imdbVotes": "589"
+},
 "i=tt0463398": {
 "Metascore": "N/A",
 "Released": "01 Jun 2005",
@@ -1011,6 +1022,17 @@
 "imdbRating": "5.4",
 "imdbVotes": "1,496"
 },
+"i=tt26325131": {
+"Metascore": "N/A",
+"Released": "02 Oct 2025",
+"Title": "Momo",
+"Type": "movie",
+"Year": "2025",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "5.8",
+"imdbVotes": "1,217"
+},
 "i=tt26591110": {
 "Metascore": "N/A",
 "Released": "29 Feb 2024",
@@ -1241,6 +1263,17 @@
 "found": true,
 "imdbRating": "8.1",
 "imdbVotes": "53,071"
+},
+"i=tt2815522": {
+"Metascore": "N/A",
+"Released": "N/A",
+"Title": "Southern Charm",
+"Type": "series",
+"Year": "2013–",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "6.8",
+"imdbVotes": "1,883"
 },
 "i=tt28498219": {
 "Metascore": "N/A",
@@ -1539,6 +1572,17 @@
 "imdbRating": "7.2",
 "imdbVotes": "20,316"
 },
+"i=tt31842126": {
+"Metascore": "N/A",
+"Released": "12 Nov 2026",
+"Title": "The Good Daughter",
+"Type": "series",
+"Year": "2026–",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
+},
 "i=tt31936369": {
 "Metascore": "N/A",
 "Released": "24 Jul 2026",
@@ -1714,6 +1758,17 @@
 "found": true,
 "imdbRating": "5.7",
 "imdbVotes": "25,829"
+},
+"i=tt32375763": {
+"Metascore": "N/A",
+"Released": "13 Nov 2026",
+"Title": "12 12 12",
+"Type": "series",
+"Year": "2026–",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
 },
 "i=tt32378211": {
 "Metascore": "N/A",
@@ -2331,6 +2386,17 @@
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
 },
+"i=tt35866986": {
+"Metascore": "N/A",
+"Released": "04 Sep 2026",
+"Title": "How to Rob a Bank",
+"Type": "movie",
+"Year": "2026",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
+},
 "i=tt35893068": {
 "Metascore": "N/A",
 "Released": "13 Mar 2026",
@@ -2338,6 +2404,17 @@
 "Type": "movie",
 "Year": "2026",
 "asked": "2026-11-11",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
+},
+"i=tt35926686": {
+"Metascore": "N/A",
+"Released": "14 Oct 2026",
+"Title": "It Gets Worse",
+"Type": "series",
+"Year": "2026–",
+"asked": "2026-11-13",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2371,6 +2448,17 @@
 "Type": "series",
 "Year": "2026–",
 "asked": "2026-11-11",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
+},
+"i=tt36119015": {
+"Metascore": "N/A",
+"Released": "N/A",
+"Title": "Adultery",
+"Type": "series",
+"Year": "2026–",
+"asked": "2026-11-13",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2661,6 +2749,17 @@
 "imdbRating": "5.2",
 "imdbVotes": "39"
 },
+"i=tt37281055": {
+"Metascore": "67",
+"Released": "28 Aug 2026",
+"Title": "Buddy",
+"Type": "movie",
+"Year": "2026",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "7.1",
+"imdbVotes": "5,019"
+},
 "i=tt37287335": {
 "Metascore": "77",
 "Released": "15 May 2026",
@@ -2855,6 +2954,17 @@
 "Type": "movie",
 "Year": "2026",
 "asked": "2026-11-11",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
+},
+"i=tt38773219": {
+"Metascore": "N/A",
+"Released": "13 Nov 2026",
+"Title": "Ebenezer: A Christmas Carol",
+"Type": "movie",
+"Year": "2026",
+"asked": "2026-11-13",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3337,6 +3447,10 @@
 "imdbRating": "8.6",
 "imdbVotes": "100,360"
 },
+"t=Band of Brothers and The Pacific&type=series": {
+"asked": "2026-11-13",
+"found": false
+},
 "t=Band of Brothers&type=series": {
 "Metascore": "N/A",
 "Released": "09 Sep 2001",
@@ -3414,6 +3528,17 @@
 "imdbRating": "6.0",
 "imdbVotes": "49"
 },
+"t=Fate/strange Fake&type=series": {
+"Metascore": "N/A",
+"Released": "31 Dec 2024",
+"Title": "Fate/Strange Fake",
+"Type": "series",
+"Year": "2024–",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "8.1",
+"imdbVotes": "2,337"
+},
 "t=Final Destination: Bloodlines&type=movie": {
 "Metascore": "73",
 "Released": "16 May 2025",
@@ -3447,6 +3572,17 @@
 "imdbRating": "7.6",
 "imdbVotes": "232,174"
 },
+"t=Grey’s Anatomy&type=series": {
+"Metascore": "N/A",
+"Released": "27 Mar 2005",
+"Title": "Grey's Anatomy",
+"Type": "series",
+"Year": "2005–",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "7.6",
+"imdbVotes": "378,600"
+},
 "t=Heart of the Beast&type=movie&y=2026": {
 "Metascore": "N/A",
 "Released": "25 Sep 2026",
@@ -3479,6 +3615,17 @@
 "found": true,
 "imdbRating": "6.5",
 "imdbVotes": "41,665"
+},
+"t=Idiots&type=movie&y=2026": {
+"Metascore": "62",
+"Released": "28 Aug 2026",
+"Title": "Idiots",
+"Type": "movie",
+"Year": "2026",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "6.2",
+"imdbVotes": "957"
 },
 "t=Instadocs: Jane Doe v. Cornell&type=series": {
 "asked": "2026-11-11",
@@ -3594,6 +3741,17 @@
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
 },
+"t=Mutiny&type=movie&y=2026": {
+"Metascore": "52",
+"Released": "21 Aug 2026",
+"Title": "Mutiny",
+"Type": "movie",
+"Year": "2026",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "5.7",
+"imdbVotes": "25,829"
+},
 "t=My Best Friend&type=movie": {
 "Metascore": "65",
 "Released": "03 Aug 2007",
@@ -3615,6 +3773,39 @@
 "found": true,
 "imdbRating": "7.7",
 "imdbVotes": "85,426"
+},
+"t=North and South&type=series": {
+"Metascore": "N/A",
+"Released": "20 Sep 1966",
+"Title": "North and South",
+"Type": "series",
+"Year": "1966",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "8.7",
+"imdbVotes": "11"
+},
+"t=Other Mommy&type=movie&y=2026": {
+"Metascore": "N/A",
+"Released": "09 Oct 2026",
+"Title": "Other Mommy",
+"Type": "movie",
+"Year": "2026",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
+},
+"t=Outlander&type=series": {
+"Metascore": "N/A",
+"Released": "09 Aug 2014",
+"Title": "Outlander",
+"Type": "series",
+"Year": "2014–2026",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "8.3",
+"imdbVotes": "205,141"
 },
 "t=Power&type=series": {
 "Metascore": "N/A",
@@ -3701,6 +3892,17 @@
 "imdbRating": "8.0",
 "imdbVotes": "327,986"
 },
+"t=Taboo&type=series": {
+"Metascore": "N/A",
+"Released": "10 Jan 2017",
+"Title": "Taboo",
+"Type": "series",
+"Year": "2017",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "8.3",
+"imdbVotes": "165,314"
+},
 "t=Taken: Natalee Holloway&type=series": {
 "Metascore": "N/A",
 "Released": "04 Nov 2026",
@@ -3712,6 +3914,10 @@
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
 },
+"t=The Brilliant Healer's New Life in the Shadows (Simuldub)&type=series": {
+"asked": "2026-11-13",
+"found": false
+},
 "t=The Croods&type=movie": {
 "Metascore": "55",
 "Released": "22 Mar 2013",
@@ -3722,6 +3928,17 @@
 "found": true,
 "imdbRating": "7.1",
 "imdbVotes": "255,598"
+},
+"t=The Curse of Oak Island&type=series": {
+"Metascore": "N/A",
+"Released": "05 Jan 2014",
+"Title": "The Curse of Oak Island",
+"Type": "series",
+"Year": "2014–2026",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "6.8",
+"imdbVotes": "7,572"
 },
 "t=The Day After Tomorrow&type=movie": {
 "Metascore": "47",
@@ -3770,6 +3987,17 @@
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
+},
+"t=The Good Place&type=series": {
+"Metascore": "N/A",
+"Released": "19 Sep 2016",
+"Title": "The Good Place",
+"Type": "series",
+"Year": "2016–2020",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "8.2",
+"imdbVotes": "225,992"
 },
 "t=The Hobbit: An Unexpected Journey&type=movie": {
 "Metascore": "58",
@@ -3903,6 +4131,21 @@
 "imdbRating": "8.1",
 "imdbVotes": "88,692"
 },
+"t=The Unaware Atelier Meister (Simuldub)&type=series": {
+"asked": "2026-11-13",
+"found": false
+},
+"t=Trigun Stampede&type=series": {
+"Metascore": "N/A",
+"Released": "07 Jan 2023",
+"Title": "Trigun Stampede",
+"Type": "series",
+"Year": "2023–2026",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "7.3",
+"imdbVotes": "3,099"
+},
 "t=Twin Peaks&type=series": {
 "Metascore": "N/A",
 "Released": "08 Apr 1990",
@@ -3939,6 +4182,17 @@
 "found": true,
 "imdbRating": "8.5",
 "imdbVotes": "129,654"
+},
+"t=World War II with Tom Hanks&type=series": {
+"Metascore": "N/A",
+"Released": "25 May 2026",
+"Title": "World War II with Tom Hanks",
+"Type": "series",
+"Year": "2026",
+"asked": "2026-11-13",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
 },
 "t=Your Mother Your Mother Your Mother&type=movie&y=2026": {
 "Metascore": "N/A",
