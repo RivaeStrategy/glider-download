@@ -1,4 +1,5 @@
-# Glider's Top 10s (Movies and Series pages) and Top 15 trending (Home). Lives in
+# Glider's Top 10s (Movies and Series pages), Top 30 trending (Home), and since November 19, 2026
+# the long "ranked" list and Netflix's own lists that order every poster row. Lives in
 # RivaeStrategy/glider-download as .github/workflows/charts.yml (a public repo, so Actions cost
 # nothing there), next to charts/top10.py and charts/trending.py. The copies in tuner-iptv's
 # tools/charts are the ones to edit (also omdb.py). Needs the OMDB_KEY secret in that repo.
