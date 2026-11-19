@@ -258,7 +258,7 @@
 "Title": "Company",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -291,7 +291,7 @@
 "Title": "H Is for Hawk",
 "Type": "movie",
 "Year": "2025",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "74"
@@ -302,7 +302,7 @@
 "Title": "Titanoboa",
 "Type": "movie",
 "Year": "2022",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -324,7 +324,7 @@
 "Title": "The Weight",
 "Type": "movie",
 "Year": "2020",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -401,7 +401,7 @@
 "Title": "The Whisper Man",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -434,7 +434,7 @@
 "Title": "I Play Rocky",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -445,7 +445,7 @@
 "Title": "Here Comes the Flood",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -478,7 +478,7 @@
 "Title": "Seasons",
 "Type": "movie",
 "Year": "2027",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -522,21 +522,21 @@
 "Title": "The Mongoose",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
 },
 "i=tt13652154": {
-"Metascore": "N/A",
-"Released": "N/A",
+"Metascore": "88",
+"Released": "13 Nov 2026",
 "Title": "Mouse",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
-"imdbRating": "N/A",
-"imdbVotes": "N/A"
+"imdbRating": "8.0",
+"imdbVotes": "295"
 },
 "i=tt13875494": {
 "Metascore": "N/A",
@@ -577,7 +577,7 @@
 "Title": "A Talent for Murder",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -610,7 +610,7 @@
 "Title": "Klara and the Sun",
 "Type": "movie",
 "Year": "2025",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -621,7 +621,7 @@
 "Title": "Steps",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -687,7 +687,7 @@
 "Title": "Being Heumann",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -742,7 +742,7 @@
 "Title": "Wild Horse Nine",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -940,7 +940,7 @@
 "Title": "Phony",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1044,6 +1044,17 @@
 "imdbRating": "5.4",
 "imdbVotes": "1,496"
 },
+"i=tt24818230": {
+"Metascore": "N/A",
+"Released": "26 Nov 2026",
+"Title": "Madden",
+"Type": "movie",
+"Year": "2026",
+"asked": "2026-11-19",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
+},
 "i=tt26325131": {
 "Metascore": "N/A",
 "Released": "02 Oct 2025",
@@ -1072,7 +1083,7 @@
 "Title": "Nocturne",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1105,7 +1116,7 @@
 "Title": "Musk",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1193,7 +1204,7 @@
 "Title": "Toxic",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1237,7 +1248,7 @@
 "Title": "The Thing with Feathers",
 "Type": "movie",
 "Year": "2025",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1303,7 +1314,7 @@
 "Title": "Matchbox",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1314,7 +1325,7 @@
 "Title": "Whalefall",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1336,7 +1347,7 @@
 "Title": "Nina Roza",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "43"
@@ -1374,13 +1385,24 @@
 "imdbRating": "7.2",
 "imdbVotes": "1,165"
 },
+"i=tt29929002": {
+"Metascore": "N/A",
+"Released": "09 Jun 2024",
+"Title": "Austin",
+"Type": "series",
+"Year": "2024–",
+"asked": "2026-11-19",
+"found": true,
+"imdbRating": "7.5",
+"imdbVotes": "403"
+},
 "i=tt30051064": {
 "Metascore": "N/A",
 "Released": "20 Sep 2026",
 "Title": "American Hostage",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1391,7 +1413,7 @@
 "Title": "Heysel 85",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "39"
@@ -1413,7 +1435,7 @@
 "Title": "Naughty",
 "Type": "movie",
 "Year": "2027",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1457,7 +1479,7 @@
 "Title": "Animals",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1479,7 +1501,7 @@
 "Title": "Jimmy",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1490,7 +1512,7 @@
 "Title": "The Housewife",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1556,7 +1578,7 @@
 "Title": "Digger",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1644,7 +1666,7 @@
 "Title": "The Catch",
 "Type": "movie",
 "Year": "2027",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1666,7 +1688,7 @@
 "Title": "Sunny Dancer",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "46"
@@ -1677,7 +1699,7 @@
 "Title": "Way of the Warrior Kid",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1688,7 +1710,7 @@
 "Title": "Verity",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1754,7 +1776,7 @@
 "Title": "Josephine",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1765,7 +1787,7 @@
 "Title": "The Get Out",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1875,7 +1897,7 @@
 "Title": "The Hunger Games: Sunrise on the Reaping",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1886,7 +1908,7 @@
 "Title": "Practical Magic 2",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1897,7 +1919,7 @@
 "Title": "Soulm8te",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1941,7 +1963,7 @@
 "Title": "Eternally Yours",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -1963,7 +1985,7 @@
 "Title": "River",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2062,7 +2084,7 @@
 "Title": "Cupertino",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2106,7 +2128,7 @@
 "Title": "Get Jiro!",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2172,7 +2194,7 @@
 "Title": "Maserati: the Brothers",
 "Type": "movie",
 "Year": "2025",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2194,7 +2216,7 @@
 "Title": "Pendulum",
 "Type": "movie",
 "Year": "2027",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2205,7 +2227,7 @@
 "Title": "By Any Means",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2216,7 +2238,7 @@
 "Title": "The Gallerist",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2238,7 +2260,7 @@
 "Title": "Love of Your Life",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2249,7 +2271,7 @@
 "Title": "Misty Green",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2348,7 +2370,7 @@
 "Title": "CIA",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "24"
@@ -2370,7 +2392,7 @@
 "Title": "Resident Evil",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2414,7 +2436,7 @@
 "Title": "Kill Jackie",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2436,7 +2458,7 @@
 "Title": "Avatar: Seven Havens",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2447,7 +2469,7 @@
 "Title": "Your Mother Your Mother Your Mother",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2502,7 +2524,7 @@
 "Title": "Youth",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2513,7 +2535,7 @@
 "Title": "Coven Academy",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2546,7 +2568,7 @@
 "Title": "Clean Hands",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2590,7 +2612,7 @@
 "Title": "The Mosquito Bowl",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2601,7 +2623,7 @@
 "Title": "Behemoth!",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2612,7 +2634,7 @@
 "Title": "The Only Living Pickpocket in New York",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2623,7 +2645,7 @@
 "Title": "Other Mommy",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2634,7 +2656,7 @@
 "Title": "Don't Say Good Luck",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2656,7 +2678,7 @@
 "Title": "Bad Lieutenant: Tokyo",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2667,7 +2689,18 @@
 "Title": "Bunker",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
+},
+"i=tt36786185": {
+"Metascore": "N/A",
+"Released": "19 Nov 2026",
+"Title": "The Altruists",
+"Type": "series",
+"Year": "2026–",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2678,7 +2711,7 @@
 "Title": "Shaun the Sheep: The Beast of Mossy Bottom",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2711,7 +2744,7 @@
 "Title": "The Blame",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2755,7 +2788,7 @@
 "Title": "The Devil's Mouth",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2788,7 +2821,7 @@
 "Title": "Artificial",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2799,7 +2832,7 @@
 "Title": "Tall Tales & Murder",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2810,7 +2843,7 @@
 "Title": "Pierre",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2876,7 +2909,7 @@
 "Title": "Elsinore",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2898,7 +2931,7 @@
 "Title": "The Social Reckoning",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2920,7 +2953,7 @@
 "Title": "The Last Sunrise",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -2964,7 +2997,7 @@
 "Title": "War",
 "Type": "series",
 "Year": "2025–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3008,7 +3041,7 @@
 "Title": "Lizard Music",
 "Type": "movie",
 "Year": "2027",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3063,7 +3096,7 @@
 "Title": "Archangel",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3096,7 +3129,7 @@
 "Title": "The Party",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3129,7 +3162,7 @@
 "Title": "The Housemaid's Secret",
 "Type": "movie",
 "Year": "2027",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3151,7 +3184,7 @@
 "Title": "Newlyweds",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3173,7 +3206,7 @@
 "Title": "Yaga",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3195,7 +3228,7 @@
 "Title": "Treasure Island",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3217,7 +3250,7 @@
 "Title": "The Northumbria Mysteries",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3234,7 +3267,7 @@
 "imdbVotes": "1,497,908"
 },
 "i=tt41814911": {
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": false
 },
 "i=tt42220724": {
@@ -3264,7 +3297,7 @@
 "found": false
 },
 "i=tt42496001": {
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": false
 },
 "i=tt43655467": {
@@ -3273,7 +3306,7 @@
 "Title": "Ali G: Who Iz I?",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3493,7 +3526,7 @@
 "Title": "The Body",
 "Type": "series",
 "Year": "2026–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3515,7 +3548,7 @@
 "Title": "Gnomes",
 "Type": "series",
 "Year": "2019–",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3581,7 +3614,7 @@
 "Title": "Hotel Tehran",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3608,6 +3641,10 @@
 "imdbRating": "5.9",
 "imdbVotes": "11"
 },
+"t=30 Rock, Seasons 1-7 Collection&type=series": {
+"asked": "2026-11-19",
+"found": false
+},
 "t=A Couple of Lies&type=series": {
 "asked": "2026-11-11",
 "found": false
@@ -3618,7 +3655,7 @@
 "Title": "A Dog's Perfect Christmas",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -3763,6 +3800,10 @@
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
 },
+"t=Drink Coffee, Talk Fast: A Documentary About Gilmore Girls&type=movie&y=2026": {
+"asked": "2026-11-19",
+"found": false
+},
 "t=Fate/strange Fake&type=series": {
 "Metascore": "N/A",
 "Released": "31 Dec 2024",
@@ -3784,6 +3825,17 @@
 "found": true,
 "imdbRating": "6.7",
 "imdbVotes": "172,906"
+},
+"t=Friends&type=series": {
+"Metascore": "N/A",
+"Released": "22 Sep 1994",
+"Title": "Friends",
+"Type": "series",
+"Year": "1994–2004",
+"asked": "2026-11-19",
+"found": true,
+"imdbRating": "8.8",
+"imdbVotes": "1,210,578"
 },
 "t=From&type=series": {
 "Metascore": "N/A",
@@ -3872,6 +3924,17 @@
 "found": true,
 "imdbRating": "6.5",
 "imdbVotes": "41,665"
+},
+"t=I Want Your Sex&type=movie&y=2026": {
+"Metascore": "67",
+"Released": "31 Jul 2026",
+"Title": "I Want Your Sex",
+"Type": "movie",
+"Year": "2026",
+"asked": "2026-11-19",
+"found": true,
+"imdbRating": "5.8",
+"imdbVotes": "8,878"
 },
 "t=Idiots&type=movie&y=2026": {
 "Metascore": "62",
@@ -4004,7 +4067,7 @@
 "Title": "Musk",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -4147,7 +4210,7 @@
 "Title": "Resident Evil",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -4182,6 +4245,17 @@
 "asked": "2026-11-11",
 "found": false
 },
+"t=Seinfeld&type=series": {
+"Metascore": "N/A",
+"Released": "05 Jul 1989",
+"Title": "Seinfeld",
+"Type": "series",
+"Year": "1989–1998",
+"asked": "2026-11-19",
+"found": true,
+"imdbRating": "8.8",
+"imdbVotes": "389,448"
+},
 "t=Sense and Sensibility&type=movie&y=2026": {
 "Metascore": "72",
 "Released": "16 Oct 2026",
@@ -4207,6 +4281,17 @@
 "found": true,
 "imdbRating": "8.0",
 "imdbVotes": "327,986"
+},
+"t=Star Trek: Enterprise&type=series": {
+"Metascore": "N/A",
+"Released": "26 Sep 2001",
+"Title": "Star Trek: Enterprise",
+"Type": "series",
+"Year": "2001–2005",
+"asked": "2026-11-19",
+"found": true,
+"imdbRating": "7.6",
+"imdbVotes": "65,239"
 },
 "t=Star Trek: Enterprise: The Complete Series&type=series": {
 "asked": "2026-11-18",
@@ -4245,6 +4330,17 @@
 "imdbRating": "7.6",
 "imdbVotes": "8,294"
 },
+"t=Star Trek: The Next Generation&type=series": {
+"Metascore": "N/A",
+"Released": "28 Sep 1987",
+"Title": "Star Trek: The Next Generation",
+"Type": "series",
+"Year": "1987–1994",
+"asked": "2026-11-19",
+"found": true,
+"imdbRating": "8.7",
+"imdbVotes": "151,836"
+},
 "t=Star Trek: The Next Generation: The Complete Series&type=series": {
 "asked": "2026-11-18",
 "found": false
@@ -4281,10 +4377,32 @@
 "Title": "Taken: Natalee Holloway",
 "Type": "series",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
+},
+"t=Tenet&type=movie&y=2020": {
+"Metascore": "69",
+"Released": "03 Sep 2020",
+"Title": "Tenet",
+"Type": "movie",
+"Year": "2020",
+"asked": "2026-11-19",
+"found": true,
+"imdbRating": "7.3",
+"imdbVotes": "716,637"
+},
+"t=The Americans&type=series": {
+"Metascore": "N/A",
+"Released": "30 Jan 2013",
+"Title": "The Americans",
+"Type": "series",
+"Year": "2013–2018",
+"asked": "2026-11-19",
+"found": true,
+"imdbRating": "8.4",
+"imdbVotes": "127,021"
 },
 "t=The Batman&type=movie&y=2022": {
 "Metascore": "72",
@@ -4485,6 +4603,17 @@
 "imdbRating": "7.0",
 "imdbVotes": "371,728"
 },
+"t=The Hunger Games: The Ballad of Songbirds and Snakes&type=movie&y=2023": {
+"Metascore": "N/A",
+"Released": "13 Nov 2023",
+"Title": "The Hunger Games: The Ballad of Songbirds and Snakes - The IMAX Live World Premiere Red Carpet, Lionsgate",
+"Type": "movie",
+"Year": "2023",
+"asked": "2026-11-19",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
+},
 "t=The Invite&type=movie&y=2026": {
 "Metascore": "82",
 "Released": "10 Jul 2026",
@@ -4529,13 +4658,17 @@
 "imdbRating": "8.4",
 "imdbVotes": "544,815"
 },
+"t=The Office: Superfan Extended Episodes&type=series": {
+"asked": "2026-11-19",
+"found": false
+},
 "t=The One About Matthew Perry&type=series": {
 "Metascore": "N/A",
 "Released": "27 Oct 2026",
 "Title": "The One About Matthew Perry",
 "Type": "series",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
@@ -4624,7 +4757,7 @@
 "Title": "Verity",
 "Type": "movie",
 "Year": "2026",
-"asked": "2026-11-11",
+"asked": "2026-11-19",
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
