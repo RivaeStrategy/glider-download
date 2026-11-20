@@ -362,6 +362,17 @@
 "imdbRating": "6.7",
 "imdbVotes": "11,603"
 },
+"i=tt11041332": {
+"Metascore": "N/A",
+"Released": "14 Nov 2021",
+"Title": "Yellowjackets",
+"Type": "series",
+"Year": "2021–",
+"asked": "2026-11-20",
+"found": true,
+"imdbRating": "7.7",
+"imdbVotes": "117,471"
+},
 "i=tt11231226": {
 "Metascore": "N/A",
 "Released": "27 Sep 2022",
@@ -438,6 +449,17 @@
 "found": true,
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
+},
+"i=tt12324366": {
+"Metascore": "N/A",
+"Released": "19 Dec 2023",
+"Title": "Percy Jackson and the Olympians",
+"Type": "series",
+"Year": "2023–",
+"asked": "2026-11-20",
+"found": true,
+"imdbRating": "7.0",
+"imdbVotes": "54,328"
 },
 "i=tt12455636": {
 "Metascore": "N/A",
@@ -2848,6 +2870,17 @@
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
 },
+"i=tt37253101": {
+"Metascore": "N/A",
+"Released": "N/A",
+"Title": "Hunting Alice Bell",
+"Type": "series",
+"Year": "2026–",
+"asked": "2026-11-20",
+"found": true,
+"imdbRating": "N/A",
+"imdbVotes": "N/A"
+},
 "i=tt37279821": {
 "Metascore": "53",
 "Released": "04 Sep 2026",
@@ -3575,6 +3608,17 @@
 "imdbRating": "N/A",
 "imdbVotes": "N/A"
 },
+"i=tt9165134": {
+"Metascore": "N/A",
+"Released": "23 Jul 2019",
+"Title": "I Am...",
+"Type": "series",
+"Year": "2019–",
+"asked": "2026-11-20",
+"found": true,
+"imdbRating": "7.2",
+"imdbVotes": "980"
+},
 "i=tt9170070": {
 "Metascore": "N/A",
 "Released": "03 Jun 2019",
@@ -3803,6 +3847,17 @@
 "t=Drink Coffee, Talk Fast: A Documentary About Gilmore Girls&type=movie&y=2026": {
 "asked": "2026-11-19",
 "found": false
+},
+"t=Fairly OddParents&type=series": {
+"Metascore": "N/A",
+"Released": "30 Mar 2001",
+"Title": "The Fairly OddParents",
+"Type": "series",
+"Year": "2001–2017",
+"asked": "2026-11-20",
+"found": true,
+"imdbRating": "7.2",
+"imdbVotes": "53,150"
 },
 "t=Fate/strange Fake&type=series": {
 "Metascore": "N/A",
@@ -4225,6 +4280,17 @@
 "found": true,
 "imdbRating": "9.0",
 "imdbVotes": "716,348"
+},
+"t=Rogue&type=series": {
+"Metascore": "N/A",
+"Released": "03 Apr 2013",
+"Title": "Rogue",
+"Type": "series",
+"Year": "2013–2017",
+"asked": "2026-11-20",
+"found": true,
+"imdbRating": "6.9",
+"imdbVotes": "3,684"
 },
 "t=Russell Brand: Open Secret&type=movie": {
 "asked": "2026-11-18",
@@ -4765,6 +4831,17 @@
 "t=WWE Crown Jewel&type=series": {
 "asked": "2026-11-11",
 "found": false
+},
+"t=Weeds&type=series": {
+"Metascore": "N/A",
+"Released": "07 Aug 2005",
+"Title": "Weeds",
+"Type": "series",
+"Year": "2005–2012",
+"asked": "2026-11-20",
+"found": true,
+"imdbRating": "7.9",
+"imdbVotes": "123,853"
 },
 "t=What We Do in the Shadows&type=series": {
 "Metascore": "N/A",
