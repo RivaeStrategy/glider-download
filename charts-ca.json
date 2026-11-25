@@ -1,7 +1,7 @@
 {
  "version": 3,
  "country": "CA",
- "netflixWeek": "2026-11-15",
+ "netflixWeek": "2026-11-22",
  "movies": [
   {
    "title": "The Odyssey",
@@ -18,43 +18,70 @@
    "rank": 1
   },
   {
-   "title": "Heart of the Beast",
+   "title": "Guarding Stars",
    "year": "2026",
    "kind": "movie",
-   "points": 20.6,
+   "points": 20.8,
    "score": null,
    "charts": [
-    "Apple TV CA #3",
-    "Apple TV US #2",
-    "Simkl #2"
+    "Netflix CA #1",
+    "Netflix US #1",
+    "Simkl #5"
    ],
-   "source": "Apple TV",
-   "rank": 3
+   "source": "Netflix",
+   "rank": 1
   },
   {
-   "title": "Spider-Man: Brand New Day",
+   "title": "You Can See Everything",
    "year": "2026",
    "kind": "movie",
-   "points": 19.2,
-   "score": 66,
+   "points": 18.2,
+   "score": 98,
    "charts": [
     "Apple TV CA #2",
-    "Apple TV US #3",
-    "Simkl #5"
+    "Apple TV US #2"
    ],
    "source": "Apple TV",
    "rank": 2
   },
   {
+   "title": "Heart of the Beast",
+   "year": "2026",
+   "kind": "movie",
+   "points": 17.6,
+   "score": null,
+   "charts": [
+    "Apple TV CA #4",
+    "Apple TV US #4",
+    "Simkl #3"
+   ],
+   "source": "Apple TV",
+   "rank": 4
+  },
+  {
+   "title": "Spider-Man: Brand New Day",
+   "year": "2026",
+   "kind": "movie",
+   "points": 17.4,
+   "score": 66,
+   "charts": [
+    "Apple TV CA #3",
+    "Apple TV US #3",
+    "Simkl #6"
+   ],
+   "source": "Apple TV",
+   "rank": 3
+  },
+  {
    "title": "Resident Evil",
    "year": "2026",
    "kind": "movie",
-   "points": 15.6,
+   "points": 14.6,
    "score": null,
    "charts": [
     "Apple TV CA #6",
-    "Apple TV US #4",
-    "Simkl #3"
+    "Apple TV US #7",
+    "Simkl #2"
    ],
    "source": "Apple TV",
    "rank": 6
@@ -63,133 +90,67 @@
    "title": "Heartland",
    "year": null,
    "kind": "movie",
-   "points": 12.8,
-   "score": null,
-   "charts": [
-    "Netflix CA #3",
-    "Netflix US #3"
-   ],
-   "source": "Netflix",
-   "rank": 3
-  },
-  {
-   "title": "A Dog's Perfect Christmas",
-   "year": null,
-   "kind": "movie",
-   "points": 12.6,
+   "points": 13.8,
    "score": null,
    "charts": [
     "Netflix CA #2",
-    "Netflix US #5"
+    "Netflix US #3"
    ],
    "source": "Netflix",
    "rank": 2
   },
   {
-   "title": "Carolina Caroline",
+   "title": "Russell Brand: Open Secret",
    "year": null,
    "kind": "movie",
-   "points": 11.5,
-   "score": 75,
+   "points": 11.6,
+   "score": null,
+   "charts": [
+    "Netflix CA #3",
+    "Netflix US #5"
+   ],
+   "source": "Netflix",
+   "rank": 3
+  },
+  {
+   "title": "Steps",
+   "year": null,
+   "kind": "movie",
+   "points": 11.2,
+   "score": null,
    "charts": [
     "Netflix CA #4",
-    "Netflix US #6"
+    "Netflix US #4"
    ],
    "source": "Netflix",
    "rank": 4
   },
   {
-   "title": "The Christmas Switch",
+   "title": "Obsession",
    "year": null,
    "kind": "movie",
-   "points": 10.6,
-   "score": null,
+   "points": 7.1,
+   "score": 77,
    "charts": [
-    "Netflix CA #1",
-    "Netflix US #10"
+    "Netflix US #2"
    ],
-   "source": "Netflix",
-   "rank": 1
+   "source": "Netflix US",
+   "rank": 2
   },
   {
-   "title": "Primetime",
+   "title": "By Any Means",
    "year": "2026",
    "kind": "movie",
-   "points": 8.8,
-   "score": 68,
-   "charts": [
-    "Apple TV CA #10",
-    "Apple TV US #6",
-    "Simkl #6"
-   ],
-   "source": "Apple TV",
-   "rank": 10
-  },
-  {
-   "title": "Drink Coffee, Talk Fast: A Documentary About Gilmore Girls",
-   "year": "2026",
-   "kind": "movie",
-   "points": 8.4,
+   "points": 6.0,
    "score": null,
    "charts": [
-    "Apple TV CA #5",
-    "Apple TV US #7"
+    "Apple TV CA #5"
    ],
    "source": "Apple TV",
    "rank": 5
   },
   {
-   "title": "The Batman",
-   "year": "2022",
-   "kind": "movie",
-   "points": 8.2,
-   "score": 72,
-   "charts": [
-    "Apple TV CA #4"
-   ],
-   "source": "Apple TV",
-   "rank": 4
-  },
-  {
-   "title": "Never Surrender",
-   "year": null,
-   "kind": "movie",
-   "points": 6.8,
-   "score": null,
-   "charts": [
-    "Netflix CA #6",
-    "Netflix US #8"
-   ],
-   "source": "Netflix",
-   "rank": 6
-  },
-  {
-   "title": "Other Mommy",
-   "year": "2026",
-   "kind": "movie",
-   "points": 6.8,
-   "score": null,
-   "charts": [
-    "Apple TV US #9",
-    "Simkl #4"
-   ],
-   "source": "Apple TV US",
-   "rank": 9
-  },
-  {
-   "title": "Reminders of Him",
-   "year": null,
-   "kind": "movie",
-   "points": 6.0,
-   "score": 49,
-   "charts": [
-    "Netflix US #1"
-   ],
-   "source": "Netflix US",
-   "rank": 1
-  },
-  {
-   "title": "The Unthinkable Daughter",
+   "title": "Dr. Seuss' The Grinch",
    "year": null,
    "kind": "movie",
    "points": 6.0,
@@ -201,100 +162,104 @@
    "rank": 5
   },
   {
-   "title": "The Gospel of Christmas",
+   "title": "Never Surrender",
    "year": null,
    "kind": "movie",
-   "points": 5.4,
+   "points": 5.8,
    "score": null,
    "charts": [
-    "Netflix US #2"
-   ],
-   "source": "Netflix US",
-   "rank": 2
-  },
-  {
-   "title": "Verity",
-   "year": "2026",
-   "kind": "movie",
-   "points": 5.2,
-   "score": null,
-   "charts": [
-    "Apple TV US #5",
-    "Simkl #9"
-   ],
-   "source": "Apple TV US",
-   "rank": 5
-  },
-  {
-   "title": "Funny Money: The Dane Cook Story",
-   "year": null,
-   "kind": "movie",
-   "points": 4.2,
-   "score": null,
-   "charts": [
-    "Netflix US #4"
-   ],
-   "source": "Netflix US",
-   "rank": 4
-  },
-  {
-   "title": "The End of Oak Street",
-   "year": "2026",
-   "kind": "movie",
-   "points": 4.1,
-   "score": 69,
-   "charts": [
-    "Simkl #7"
-   ],
-   "source": "Simkl",
-   "rank": 7
-  },
-  {
-   "title": "Russell Brand: Open Secret",
-   "year": null,
-   "kind": "movie",
-   "points": 4.0,
-   "score": null,
-   "charts": [
-    "Netflix CA #7"
+    "Netflix CA #7",
+    "Netflix US #8"
    ],
    "source": "Netflix",
    "rank": 7
   },
   {
-   "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
-   "year": "2023",
+   "title": "The Christmas Switch",
+   "year": null,
    "kind": "movie",
-   "points": 4.0,
+   "points": 5.6,
    "score": null,
    "charts": [
-    "Apple TV CA #7"
+    "Netflix CA #6",
+    "Netflix US #10"
+   ],
+   "source": "Netflix",
+   "rank": 6
+  },
+  {
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "year": "2026",
+   "kind": "movie",
+   "points": 5.6,
+   "score": 56,
+   "charts": [
+    "Simkl #4"
+   ],
+   "source": "Simkl",
+   "rank": 4
+  },
+  {
+   "title": "Mutiny",
+   "year": "2026",
+   "kind": "movie",
+   "points": 5.2,
+   "score": 52,
+   "charts": [
+    "Apple TV CA #7",
+    "Apple TV US #9"
    ],
    "source": "Apple TV",
    "rank": 7
   },
   {
-   "title": "You Can See Everything",
+   "title": "Primetime",
    "year": "2026",
    "kind": "movie",
-   "points": 3.8,
-   "score": 98,
-   "charts": [],
-   "source": "Critics",
-   "rank": 1
+   "points": 5.0,
+   "score": 68,
+   "charts": [
+    "Apple TV US #8",
+    "Simkl #8"
+   ],
+   "source": "Apple TV US",
+   "rank": 8
   },
   {
-   "title": "Musk",
+   "title": "Coyote vs. Acme",
+   "year": "2026",
+   "kind": "movie",
+   "points": 4.7,
+   "score": 77,
+   "charts": [
+    "Apple TV US #6"
+   ],
+   "source": "Apple TV US",
+   "rank": 6
+  },
+  {
+   "title": "Spider-Man: Across the Spider-Verse",
+   "year": "2023",
+   "kind": "movie",
+   "points": 3.6,
+   "score": 86,
+   "charts": [
+    "Apple TV CA #10"
+   ],
+   "source": "Apple TV",
+   "rank": 10
+  },
+  {
+   "title": "Verity",
    "year": "2026",
    "kind": "movie",
    "points": 3.6,
    "score": null,
    "charts": [
-    "Apple TV CA #8",
-    "Apple TV US #10"
+    "Apple TV US #5"
    ],
-   "source": "Apple TV",
-   "rank": 8
+   "source": "Apple TV US",
+   "rank": 5
   },
   {
    "title": "Naza",
@@ -307,11 +272,23 @@
    "rank": 1
   },
   {
-   "title": "The Holiday",
+   "title": "Other Mommy",
+   "year": "2026",
+   "kind": "movie",
+   "points": 3.2,
+   "score": null,
+   "charts": [
+    "Simkl #7"
+   ],
+   "source": "Simkl",
+   "rank": 7
+  },
+  {
+   "title": "Christmas On The Ranch",
    "year": null,
    "kind": "movie",
    "points": 3.0,
-   "score": 52,
+   "score": null,
    "charts": [
     "Netflix CA #8"
    ],
@@ -319,16 +296,28 @@
    "rank": 8
   },
   {
-   "title": "Tenet",
-   "year": "2020",
+   "title": "Practical Magic 2",
+   "year": "2026",
    "kind": "movie",
-   "points": 2.9,
-   "score": 69,
+   "points": 3.0,
+   "score": null,
    "charts": [
-    "Apple TV CA #9"
+    "Apple TV CA #8"
    ],
    "source": "Apple TV",
-   "rank": 9
+   "rank": 8
+  },
+  {
+   "title": "The Gospel of Christmas",
+   "year": null,
+   "kind": "movie",
+   "points": 3.0,
+   "score": null,
+   "charts": [
+    "Netflix US #6"
+   ],
+   "source": "Netflix US",
+   "rank": 6
   },
   {
    "title": "Mouse",
@@ -341,6 +330,18 @@
    "rank": 1
   },
   {
+   "title": "The End of Oak Street",
+   "year": "2026",
+   "kind": "movie",
+   "points": 2.5,
+   "score": 69,
+   "charts": [
+    "Simkl #9"
+   ],
+   "source": "Simkl",
+   "rank": 9
+  },
+  {
    "title": "Club Kid",
    "year": "2026",
    "kind": "movie",
@@ -351,33 +352,46 @@
    "rank": 1
   },
   {
-   "title": "Street Fighter",
-   "year": "2026",
-   "kind": "movie",
-   "points": 2.4,
-   "score": 46,
-   "charts": [
-    "Simkl #8"
-   ],
-   "source": "Simkl",
-   "rank": 8
-  },
-  {
-   "title": "The Croods",
+   "title": "Reminders of Him",
    "year": null,
    "kind": "movie",
    "points": 2.4,
-   "score": 55,
+   "score": 49,
    "charts": [
     "Netflix US #7"
    ],
    "source": "Netflix US",
    "rank": 7
+  },
+  {
+   "title": "The Boss Baby: Family Business",
+   "year": null,
+   "kind": "movie",
+   "points": 2.0,
+   "score": 39,
+   "charts": [
+    "Netflix CA #9"
+   ],
+   "source": "Netflix",
+   "rank": 9
   }
  ],
  "shows": [
   {
-   "title": "Taken: Natalee Holloway",
+   "title": "Star Trek: The Next Generation",
+   "year": null,
+   "kind": "series",
+   "points": 18.1,
+   "score": 87,
+   "charts": [
+    "Apple TV CA #1",
+    "Apple TV US #2"
+   ],
+   "source": "Apple TV",
+   "rank": 1
+  },
+  {
+   "title": "The Body",
    "year": null,
    "kind": "series",
    "points": 16.0,
@@ -390,81 +404,55 @@
    "rank": 1
   },
   {
-   "title": "Star Trek: The Next Generation",
+   "title": "Raw",
    "year": null,
    "kind": "series",
-   "points": 15.9,
-   "score": 87,
-   "charts": [
-    "Apple TV CA #2",
-    "Apple TV US #4"
-   ],
-   "source": "Apple TV",
-   "rank": 2
-  },
-  {
-   "title": "Star Trek: Enterprise",
-   "year": null,
-   "kind": "series",
-   "points": 14.0,
-   "score": 76,
-   "charts": [
-    "Apple TV CA #1",
-    "Apple TV US #7"
-   ],
-   "source": "Apple TV",
-   "rank": 1
-  },
-  {
-   "title": "Black Doves",
-   "year": null,
-   "kind": "series",
-   "points": 13.8,
+   "points": 13.6,
    "score": 72,
    "charts": [
-    "Netflix CA #2",
-    "Netflix US #5"
-   ],
-   "source": "Netflix",
-   "rank": 2
-  },
-  {
-   "title": "The Body",
-   "year": null,
-   "kind": "series",
-   "points": 13.4,
-   "score": null,
-   "charts": [
-    "Netflix CA #3",
-    "Netflix US #2"
-   ],
-   "source": "Netflix",
-   "rank": 3
-  },
-  {
-   "title": "Doozie's Doghouse",
-   "year": null,
-   "kind": "series",
-   "points": 11.8,
-   "score": null,
-   "charts": [
     "Netflix CA #4",
-    "Netflix US #3"
+    "Netflix US #2"
    ],
    "source": "Netflix",
    "rank": 4
   },
   {
-   "title": "Rick and Morty",
+   "title": "Black Doves",
    "year": null,
    "kind": "series",
-   "points": 11.0,
-   "score": 90,
+   "points": 12.6,
+   "score": 72,
    "charts": [
-    "Apple TV CA #3"
+    "Netflix CA #2",
+    "Netflix US #7"
+   ],
+   "source": "Netflix",
+   "rank": 2
+  },
+  {
+   "title": "Taboo",
+   "year": null,
+   "kind": "series",
+   "points": 11.3,
+   "score": 83,
+   "charts": [
+    "Apple TV CA #2"
    ],
    "source": "Apple TV",
-   "rank": 3
+   "rank": 2
+  },
+  {
+   "title": "From",
+   "year": null,
+   "kind": "series",
+   "points": 10.8,
+   "score": 78,
+   "charts": [
+    "Netflix US #4",
+    "Apple TV US #3"
+   ],
+   "source": "Netflix US",
+   "rank": 4
   },
   {
    "title": "MobLand",
@@ -479,32 +467,6 @@
    "rank": 1
   },
   {
-   "title": "Nobody Wants This",
-   "year": null,
-   "kind": "series",
-   "points": 10.1,
-   "score": 77,
-   "charts": [
-    "Netflix CA #5",
-    "Netflix US #7"
-   ],
-   "source": "Netflix",
-   "rank": 5
-  },
-  {
-   "title": "From",
-   "year": null,
-   "kind": "series",
-   "points": 9.6,
-   "score": 78,
-   "charts": [
-    "Netflix US #6",
-    "Apple TV US #3"
-   ],
-   "source": "Netflix US",
-   "rank": 6
-  },
-  {
    "title": "Dexter: Resurrection",
    "year": "2025",
    "kind": "series",
@@ -517,17 +479,53 @@
    "rank": 3
   },
   {
-   "title": "Raw",
+   "title": "Taken: Natalee Holloway",
    "year": null,
    "kind": "series",
-   "points": 9.4,
-   "score": 72,
+   "points": 8.8,
+   "score": null,
    "charts": [
     "Netflix CA #7",
-    "Netflix US #4"
+    "Netflix US #3"
    ],
    "source": "Netflix",
    "rank": 7
+  },
+  {
+   "title": "The Curse of Oak Island",
+   "year": null,
+   "kind": "series",
+   "points": 8.8,
+   "score": 68,
+   "charts": [
+    "Apple TV CA #3"
+   ],
+   "source": "Apple TV",
+   "rank": 3
+  },
+  {
+   "title": "Grey’s Anatomy",
+   "year": null,
+   "kind": "series",
+   "points": 8.6,
+   "score": 76,
+   "charts": [
+    "Apple TV CA #4"
+   ],
+   "source": "Apple TV",
+   "rank": 4
+  },
+  {
+   "title": "The Law of Beasts",
+   "year": null,
+   "kind": "series",
+   "points": 8.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #3"
+   ],
+   "source": "Netflix",
+   "rank": 3
   },
   {
    "title": "The Lord of the Rings: The Rings of Power",
@@ -542,11 +540,11 @@
    "rank": 2
   },
   {
-   "title": "Weeds",
+   "title": "Star Trek: Enterprise",
    "year": null,
    "kind": "series",
-   "points": 7.9,
-   "score": 79,
+   "points": 7.6,
+   "score": 76,
    "charts": [
     "Apple TV CA #5"
    ],
@@ -554,23 +552,11 @@
    "rank": 5
   },
   {
-   "title": "The Curse of Oak Island",
-   "year": null,
+   "title": "Tulsa King",
+   "year": "2022",
    "kind": "series",
-   "points": 7.8,
-   "score": 68,
-   "charts": [
-    "Apple TV CA #4"
-   ],
-   "source": "Apple TV",
-   "rank": 4
-  },
-  {
-   "title": "VisionQuest",
-   "year": "2026",
-   "kind": "series",
-   "points": 7.4,
-   "score": 78,
+   "points": 7.5,
+   "score": 79,
    "charts": [
     "Simkl #4"
    ],
@@ -578,11 +564,35 @@
    "rank": 4
   },
   {
-   "title": "Billions",
+   "title": "WWE SmackDown",
    "year": null,
    "kind": "series",
    "points": 7.3,
-   "score": 83,
+   "score": 73,
+   "charts": [
+    "Netflix CA #5"
+   ],
+   "source": "Netflix",
+   "rank": 5
+  },
+  {
+   "title": "Frieren: Beyond Journey's End",
+   "year": null,
+   "kind": "series",
+   "points": 7.1,
+   "score": 89,
+   "charts": [
+    "Apple TV US #4"
+   ],
+   "source": "Apple TV US",
+   "rank": 4
+  },
+  {
+   "title": "Star Trek: Deep Space Nine",
+   "year": null,
+   "kind": "series",
+   "points": 7.1,
+   "score": 81,
    "charts": [
     "Apple TV CA #6"
    ],
@@ -590,52 +600,28 @@
    "rank": 6
   },
   {
-   "title": "Seinfeld",
+   "title": "The Empress",
    "year": null,
    "kind": "series",
    "points": 6.8,
-   "score": 88,
-   "charts": [
-    "Apple TV CA #7"
-   ],
-   "source": "Apple TV",
-   "rank": 7
-  },
-  {
-   "title": "South Park",
-   "year": "1997",
-   "kind": "series",
-   "points": 6.7,
-   "score": 87,
-   "charts": [
-    "Simkl #6"
-   ],
-   "source": "Simkl",
-   "rank": 6
-  },
-  {
-   "title": "Tulsa King",
-   "year": "2022",
-   "kind": "series",
-   "points": 6.7,
-   "score": 79,
-   "charts": [
-    "Simkl #5"
-   ],
-   "source": "Simkl",
-   "rank": 5
-  },
-  {
-   "title": "North of North",
-   "year": null,
-   "kind": "series",
-   "points": 6.5,
-   "score": 75,
+   "score": 78,
    "charts": [
     "Netflix CA #6"
    ],
    "source": "Netflix",
    "rank": 6
+  },
+  {
+   "title": "Billions",
+   "year": null,
+   "kind": "series",
+   "points": 6.3,
+   "score": 83,
+   "charts": [
+    "Apple TV CA #7"
+   ],
+   "source": "Apple TV",
+   "rank": 7
   },
   {
    "title": "The X-Files, Seasons 1-11",
@@ -650,28 +636,52 @@
    "rank": 1
   },
   {
-   "title": "Mad Men",
-   "year": null,
+   "title": "Tracker",
+   "year": "2024",
    "kind": "series",
-   "points": 5.7,
-   "score": 87,
+   "points": 6.0,
+   "score": 72,
    "charts": [
-    "Apple TV CA #8"
+    "Simkl #5"
    ],
-   "source": "Apple TV",
-   "rank": 8
+   "source": "Simkl",
+   "rank": 5
   },
   {
-   "title": "30 Rock, Seasons 1-7 Collection",
+   "title": "Danny Go!",
    "year": null,
    "kind": "series",
-   "points": 5.4,
-   "score": null,
+   "points": 5.9,
+   "score": 83,
    "charts": [
-    "Apple TV US #2"
+    "Netflix US #5"
+   ],
+   "source": "Netflix US",
+   "rank": 5
+  },
+  {
+   "title": "VisionQuest",
+   "year": "2026",
+   "kind": "series",
+   "points": 5.7,
+   "score": 77,
+   "charts": [
+    "Simkl #6"
+   ],
+   "source": "Simkl",
+   "rank": 6
+  },
+  {
+   "title": "Fairly OddParents",
+   "year": null,
+   "kind": "series",
+   "points": 4.8,
+   "score": 72,
+   "charts": [
+    "Apple TV US #5"
    ],
    "source": "Apple TV US",
-   "rank": 2
+   "rank": 5
   },
   {
    "title": "Nocturne",
@@ -686,23 +696,23 @@
    "rank": 7
   },
   {
-   "title": "Fairly OddParents",
+   "title": "Star Trek: Picard",
    "year": null,
    "kind": "series",
-   "points": 4.2,
-   "score": 72,
+   "points": 4.5,
+   "score": 75,
    "charts": [
-    "Apple TV US #6"
+    "Apple TV CA #8"
    ],
-   "source": "Apple TV US",
-   "rank": 6
+   "source": "Apple TV",
+   "rank": 8
   },
   {
-   "title": "The Americans",
+   "title": "Jujutsu Kaisen",
    "year": null,
    "kind": "series",
-   "points": 4.2,
-   "score": 84,
+   "points": 4.3,
+   "score": 85,
    "charts": [
     "Apple TV US #8"
    ],
@@ -710,41 +720,28 @@
    "rank": 8
   },
   {
-   "title": "Star Trek: Picard",
+   "title": "Ms. Rachel",
    "year": null,
    "kind": "series",
-   "points": 4.1,
-   "score": 75,
+   "points": 4.0,
+   "score": 70,
    "charts": [
-    "Apple TV CA #9",
-    "Apple TV US #10"
-   ],
-   "source": "Apple TV",
-   "rank": 9
-  },
-  {
-   "title": "Power",
-   "year": null,
-   "kind": "series",
-   "points": 3.9,
-   "score": 81,
-   "charts": [
-    "Netflix US #8"
+    "Netflix US #6"
    ],
    "source": "Netflix US",
-   "rank": 8
+   "rank": 6
   },
   {
-   "title": "The Office: Superfan Extended Episodes",
+   "title": "Friends",
    "year": null,
    "kind": "series",
-   "points": 3.6,
-   "score": null,
+   "points": 3.8,
+   "score": 88,
    "charts": [
-    "Apple TV US #5"
+    "Apple TV CA #10"
    ],
-   "source": "Apple TV US",
-   "rank": 5
+   "source": "Apple TV",
+   "rank": 10
   }
  ],
  "trending": [
@@ -763,35 +760,75 @@
    "rank": 1
   },
   {
-   "title": "Heart of the Beast",
+   "title": "Guarding Stars",
    "year": "2026",
    "kind": "movie",
-   "points": 20.6,
+   "points": 20.8,
    "score": null,
    "charts": [
-    "Apple TV CA #3",
-    "Apple TV US #2",
-    "Simkl #2"
+    "Netflix CA #1",
+    "Netflix US #1",
+    "Simkl #5"
    ],
-   "source": "Apple TV",
-   "rank": 3
+   "source": "Netflix",
+   "rank": 1
   },
   {
-   "title": "Spider-Man: Brand New Day",
+   "title": "You Can See Everything",
    "year": "2026",
    "kind": "movie",
-   "points": 19.2,
-   "score": 66,
+   "points": 18.2,
+   "score": 98,
    "charts": [
     "Apple TV CA #2",
-    "Apple TV US #3",
-    "Simkl #5"
+    "Apple TV US #2"
    ],
    "source": "Apple TV",
    "rank": 2
   },
   {
-   "title": "Taken: Natalee Holloway",
+   "title": "Star Trek: The Next Generation",
+   "year": null,
+   "kind": "series",
+   "points": 18.1,
+   "score": 87,
+   "charts": [
+    "Apple TV CA #1",
+    "Apple TV US #2"
+   ],
+   "source": "Apple TV",
+   "rank": 1
+  },
+  {
+   "title": "Heart of the Beast",
+   "year": "2026",
+   "kind": "movie",
+   "points": 17.6,
+   "score": null,
+   "charts": [
+    "Apple TV CA #4",
+    "Apple TV US #4",
+    "Simkl #3"
+   ],
+   "source": "Apple TV",
+   "rank": 4
+  },
+  {
+   "title": "Spider-Man: Brand New Day",
+   "year": "2026",
+   "kind": "movie",
+   "points": 17.4,
+   "score": 66,
+   "charts": [
+    "Apple TV CA #3",
+    "Apple TV US #3",
+    "Simkl #6"
+   ],
+   "source": "Apple TV",
+   "rank": 3
+  },
+  {
+   "title": "The Body",
    "year": null,
    "kind": "series",
    "points": 16.0,
@@ -804,147 +841,108 @@
    "rank": 1
   },
   {
-   "title": "Star Trek: The Next Generation",
-   "year": null,
-   "kind": "series",
-   "points": 15.9,
-   "score": 87,
-   "charts": [
-    "Apple TV CA #2",
-    "Apple TV US #4"
-   ],
-   "source": "Apple TV",
-   "rank": 2
-  },
-  {
    "title": "Resident Evil",
    "year": "2026",
    "kind": "movie",
-   "points": 15.6,
+   "points": 14.6,
    "score": null,
    "charts": [
     "Apple TV CA #6",
-    "Apple TV US #4",
-    "Simkl #3"
+    "Apple TV US #7",
+    "Simkl #2"
    ],
    "source": "Apple TV",
    "rank": 6
   },
   {
-   "title": "Star Trek: Enterprise",
+   "title": "Heartland",
+   "year": null,
+   "kind": "movie",
+   "points": 13.8,
+   "score": null,
+   "charts": [
+    "Netflix CA #2",
+    "Netflix US #3"
+   ],
+   "source": "Netflix",
+   "rank": 2
+  },
+  {
+   "title": "Raw",
    "year": null,
    "kind": "series",
-   "points": 14.0,
-   "score": 76,
+   "points": 13.6,
+   "score": 72,
    "charts": [
-    "Apple TV CA #1",
-    "Apple TV US #7"
+    "Netflix CA #4",
+    "Netflix US #2"
    ],
-   "source": "Apple TV",
-   "rank": 1
+   "source": "Netflix",
+   "rank": 4
   },
   {
    "title": "Black Doves",
    "year": null,
    "kind": "series",
-   "points": 13.8,
+   "points": 12.6,
    "score": 72,
    "charts": [
     "Netflix CA #2",
-    "Netflix US #5"
+    "Netflix US #7"
    ],
    "source": "Netflix",
    "rank": 2
   },
   {
-   "title": "The Body",
+   "title": "Russell Brand: Open Secret",
    "year": null,
-   "kind": "series",
-   "points": 13.4,
+   "kind": "movie",
+   "points": 11.6,
    "score": null,
    "charts": [
     "Netflix CA #3",
-    "Netflix US #2"
-   ],
-   "source": "Netflix",
-   "rank": 3
-  },
-  {
-   "title": "Heartland",
-   "year": null,
-   "kind": "movie",
-   "points": 12.8,
-   "score": null,
-   "charts": [
-    "Netflix CA #3",
-    "Netflix US #3"
-   ],
-   "source": "Netflix",
-   "rank": 3
-  },
-  {
-   "title": "A Dog's Perfect Christmas",
-   "year": null,
-   "kind": "movie",
-   "points": 12.6,
-   "score": null,
-   "charts": [
-    "Netflix CA #2",
     "Netflix US #5"
    ],
    "source": "Netflix",
-   "rank": 2
+   "rank": 3
   },
   {
-   "title": "Doozie's Doghouse",
+   "title": "Taboo",
    "year": null,
    "kind": "series",
-   "points": 11.8,
-   "score": null,
+   "points": 11.3,
+   "score": 83,
    "charts": [
-    "Netflix CA #4",
-    "Netflix US #3"
-   ],
-   "source": "Netflix",
-   "rank": 4
-  },
-  {
-   "title": "Carolina Caroline",
-   "year": null,
-   "kind": "movie",
-   "points": 11.5,
-   "score": 75,
-   "charts": [
-    "Netflix CA #4",
-    "Netflix US #6"
-   ],
-   "source": "Netflix",
-   "rank": 4
-  },
-  {
-   "title": "Rick and Morty",
-   "year": null,
-   "kind": "series",
-   "points": 11.0,
-   "score": 90,
-   "charts": [
-    "Apple TV CA #3"
+    "Apple TV CA #2"
    ],
    "source": "Apple TV",
-   "rank": 3
+   "rank": 2
   },
   {
-   "title": "The Christmas Switch",
+   "title": "Steps",
    "year": null,
    "kind": "movie",
-   "points": 10.6,
+   "points": 11.2,
    "score": null,
    "charts": [
-    "Netflix CA #1",
-    "Netflix US #10"
+    "Netflix CA #4",
+    "Netflix US #4"
    ],
    "source": "Netflix",
-   "rank": 1
+   "rank": 4
+  },
+  {
+   "title": "From",
+   "year": null,
+   "kind": "series",
+   "points": 10.8,
+   "score": 78,
+   "charts": [
+    "Netflix US #4",
+    "Apple TV US #3"
+   ],
+   "source": "Netflix US",
+   "rank": 4
   },
   {
    "title": "MobLand",
@@ -959,32 +957,6 @@
    "rank": 1
   },
   {
-   "title": "Nobody Wants This",
-   "year": null,
-   "kind": "series",
-   "points": 10.1,
-   "score": 77,
-   "charts": [
-    "Netflix CA #5",
-    "Netflix US #7"
-   ],
-   "source": "Netflix",
-   "rank": 5
-  },
-  {
-   "title": "From",
-   "year": null,
-   "kind": "series",
-   "points": 9.6,
-   "score": 78,
-   "charts": [
-    "Netflix US #6",
-    "Apple TV US #3"
-   ],
-   "source": "Netflix US",
-   "rank": 6
-  },
-  {
    "title": "Dexter: Resurrection",
    "year": "2025",
    "kind": "series",
@@ -997,56 +969,53 @@
    "rank": 3
   },
   {
-   "title": "Raw",
+   "title": "Taken: Natalee Holloway",
    "year": null,
    "kind": "series",
-   "points": 9.4,
-   "score": 72,
+   "points": 8.8,
+   "score": null,
    "charts": [
     "Netflix CA #7",
-    "Netflix US #4"
+    "Netflix US #3"
    ],
    "source": "Netflix",
    "rank": 7
   },
   {
-   "title": "Primetime",
-   "year": "2026",
-   "kind": "movie",
+   "title": "The Curse of Oak Island",
+   "year": null,
+   "kind": "series",
    "points": 8.8,
    "score": 68,
    "charts": [
-    "Apple TV CA #10",
-    "Apple TV US #6",
-    "Simkl #6"
+    "Apple TV CA #3"
    ],
    "source": "Apple TV",
-   "rank": 10
+   "rank": 3
   },
   {
-   "title": "Drink Coffee, Talk Fast: A Documentary About Gilmore Girls",
-   "year": "2026",
-   "kind": "movie",
-   "points": 8.4,
-   "score": null,
-   "charts": [
-    "Apple TV CA #5",
-    "Apple TV US #7"
-   ],
-   "source": "Apple TV",
-   "rank": 5
-  },
-  {
-   "title": "The Batman",
-   "year": "2022",
-   "kind": "movie",
-   "points": 8.2,
-   "score": 72,
+   "title": "Grey’s Anatomy",
+   "year": null,
+   "kind": "series",
+   "points": 8.6,
+   "score": 76,
    "charts": [
     "Apple TV CA #4"
    ],
    "source": "Apple TV",
    "rank": 4
+  },
+  {
+   "title": "The Law of Beasts",
+   "year": null,
+   "kind": "series",
+   "points": 8.0,
+   "score": null,
+   "charts": [
+    "Netflix CA #3"
+   ],
+   "source": "Netflix",
+   "rank": 3
   },
   {
    "title": "The Lord of the Rings: The Rings of Power",
@@ -1061,11 +1030,11 @@
    "rank": 2
   },
   {
-   "title": "Weeds",
+   "title": "Star Trek: Enterprise",
    "year": null,
    "kind": "series",
-   "points": 7.9,
-   "score": 79,
+   "points": 7.6,
+   "score": 76,
    "charts": [
     "Apple TV CA #5"
    ],
@@ -1073,23 +1042,11 @@
    "rank": 5
   },
   {
-   "title": "The Curse of Oak Island",
-   "year": null,
+   "title": "Tulsa King",
+   "year": "2022",
    "kind": "series",
-   "points": 7.8,
-   "score": 68,
-   "charts": [
-    "Apple TV CA #4"
-   ],
-   "source": "Apple TV",
-   "rank": 4
-  },
-  {
-   "title": "VisionQuest",
-   "year": "2026",
-   "kind": "series",
-   "points": 7.4,
-   "score": 78,
+   "points": 7.5,
+   "score": 79,
    "charts": [
     "Simkl #4"
    ],
@@ -1097,11 +1054,47 @@
    "rank": 4
   },
   {
-   "title": "Billions",
+   "title": "WWE SmackDown",
    "year": null,
    "kind": "series",
    "points": 7.3,
-   "score": 83,
+   "score": 73,
+   "charts": [
+    "Netflix CA #5"
+   ],
+   "source": "Netflix",
+   "rank": 5
+  },
+  {
+   "title": "Frieren: Beyond Journey's End",
+   "year": null,
+   "kind": "series",
+   "points": 7.1,
+   "score": 89,
+   "charts": [
+    "Apple TV US #4"
+   ],
+   "source": "Apple TV US",
+   "rank": 4
+  },
+  {
+   "title": "Obsession",
+   "year": null,
+   "kind": "movie",
+   "points": 7.1,
+   "score": 77,
+   "charts": [
+    "Netflix US #2"
+   ],
+   "source": "Netflix US",
+   "rank": 2
+  },
+  {
+   "title": "Star Trek: Deep Space Nine",
+   "year": null,
+   "kind": "series",
+   "points": 7.1,
+   "score": 81,
    "charts": [
     "Apple TV CA #6"
    ],
@@ -1109,73 +1102,11 @@
    "rank": 6
   },
   {
-   "title": "Never Surrender",
-   "year": null,
-   "kind": "movie",
-   "points": 6.8,
-   "score": null,
-   "charts": [
-    "Netflix CA #6",
-    "Netflix US #8"
-   ],
-   "source": "Netflix",
-   "rank": 6
-  },
-  {
-   "title": "Other Mommy",
-   "year": "2026",
-   "kind": "movie",
-   "points": 6.8,
-   "score": null,
-   "charts": [
-    "Apple TV US #9",
-    "Simkl #4"
-   ],
-   "source": "Apple TV US",
-   "rank": 9
-  },
-  {
-   "title": "Seinfeld",
+   "title": "The Empress",
    "year": null,
    "kind": "series",
    "points": 6.8,
-   "score": 88,
-   "charts": [
-    "Apple TV CA #7"
-   ],
-   "source": "Apple TV",
-   "rank": 7
-  },
-  {
-   "title": "South Park",
-   "year": "1997",
-   "kind": "series",
-   "points": 6.7,
-   "score": 87,
-   "charts": [
-    "Simkl #6"
-   ],
-   "source": "Simkl",
-   "rank": 6
-  },
-  {
-   "title": "Tulsa King",
-   "year": "2022",
-   "kind": "series",
-   "points": 6.7,
-   "score": 79,
-   "charts": [
-    "Simkl #5"
-   ],
-   "source": "Simkl",
-   "rank": 5
-  },
-  {
-   "title": "North of North",
-   "year": null,
-   "kind": "series",
-   "points": 6.5,
-   "score": 75,
+   "score": 78,
    "charts": [
     "Netflix CA #6"
    ],
@@ -1183,19 +1114,31 @@
    "rank": 6
   },
   {
-   "title": "Reminders of Him",
+   "title": "Billions",
    "year": null,
-   "kind": "movie",
-   "points": 6.0,
-   "score": 49,
+   "kind": "series",
+   "points": 6.3,
+   "score": 83,
    "charts": [
-    "Netflix US #1"
+    "Apple TV CA #7"
    ],
-   "source": "Netflix US",
-   "rank": 1
+   "source": "Apple TV",
+   "rank": 7
   },
   {
-   "title": "The Unthinkable Daughter",
+   "title": "By Any Means",
+   "year": "2026",
+   "kind": "movie",
+   "points": 6.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #5"
+   ],
+   "source": "Apple TV",
+   "rank": 5
+  },
+  {
+   "title": "Dr. Seuss' The Grinch",
    "year": null,
    "kind": "movie",
    "points": 6.0,
@@ -1219,53 +1162,128 @@
    "rank": 1
   },
   {
-   "title": "Mad Men",
-   "year": null,
+   "title": "Tracker",
+   "year": "2024",
    "kind": "series",
-   "points": 5.7,
-   "score": 87,
+   "points": 6.0,
+   "score": 72,
    "charts": [
-    "Apple TV CA #8"
+    "Simkl #5"
    ],
-   "source": "Apple TV",
-   "rank": 8
+   "source": "Simkl",
+   "rank": 5
   },
   {
-   "title": "30 Rock, Seasons 1-7 Collection",
+   "title": "Danny Go!",
    "year": null,
    "kind": "series",
-   "points": 5.4,
-   "score": null,
+   "points": 5.9,
+   "score": 83,
    "charts": [
-    "Apple TV US #2"
-   ],
-   "source": "Apple TV US",
-   "rank": 2
-  },
-  {
-   "title": "The Gospel of Christmas",
-   "year": null,
-   "kind": "movie",
-   "points": 5.4,
-   "score": null,
-   "charts": [
-    "Netflix US #2"
+    "Netflix US #5"
    ],
    "source": "Netflix US",
-   "rank": 2
+   "rank": 5
   },
   {
-   "title": "Verity",
+   "title": "Never Surrender",
+   "year": null,
+   "kind": "movie",
+   "points": 5.8,
+   "score": null,
+   "charts": [
+    "Netflix CA #7",
+    "Netflix US #8"
+   ],
+   "source": "Netflix",
+   "rank": 7
+  },
+  {
+   "title": "VisionQuest",
+   "year": "2026",
+   "kind": "series",
+   "points": 5.7,
+   "score": 77,
+   "charts": [
+    "Simkl #6"
+   ],
+   "source": "Simkl",
+   "rank": 6
+  },
+  {
+   "title": "The Christmas Switch",
+   "year": null,
+   "kind": "movie",
+   "points": 5.6,
+   "score": null,
+   "charts": [
+    "Netflix CA #6",
+    "Netflix US #10"
+   ],
+   "source": "Netflix",
+   "rank": 6
+  },
+  {
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "year": "2026",
+   "kind": "movie",
+   "points": 5.6,
+   "score": 56,
+   "charts": [
+    "Simkl #4"
+   ],
+   "source": "Simkl",
+   "rank": 4
+  },
+  {
+   "title": "Mutiny",
    "year": "2026",
    "kind": "movie",
    "points": 5.2,
-   "score": null,
+   "score": 52,
    "charts": [
-    "Apple TV US #5",
-    "Simkl #9"
+    "Apple TV CA #7",
+    "Apple TV US #9"
+   ],
+   "source": "Apple TV",
+   "rank": 7
+  },
+  {
+   "title": "Primetime",
+   "year": "2026",
+   "kind": "movie",
+   "points": 5.0,
+   "score": 68,
+   "charts": [
+    "Apple TV US #8",
+    "Simkl #8"
+   ],
+   "source": "Apple TV US",
+   "rank": 8
+  },
+  {
+   "title": "Fairly OddParents",
+   "year": null,
+   "kind": "series",
+   "points": 4.8,
+   "score": 72,
+   "charts": [
+    "Apple TV US #5"
    ],
    "source": "Apple TV US",
    "rank": 5
+  },
+  {
+   "title": "Coyote vs. Acme",
+   "year": "2026",
+   "kind": "movie",
+   "points": 4.7,
+   "score": 77,
+   "charts": [
+    "Apple TV US #6"
+   ],
+   "source": "Apple TV US",
+   "rank": 6
   },
   {
    "title": "Nocturne",
@@ -1280,35 +1298,23 @@
    "rank": 7
   },
   {
-   "title": "Fairly OddParents",
+   "title": "Star Trek: Picard",
    "year": null,
    "kind": "series",
-   "points": 4.2,
-   "score": 72,
+   "points": 4.5,
+   "score": 75,
    "charts": [
-    "Apple TV US #6"
+    "Apple TV CA #8"
    ],
-   "source": "Apple TV US",
-   "rank": 6
+   "source": "Apple TV",
+   "rank": 8
   },
   {
-   "title": "Funny Money: The Dane Cook Story",
-   "year": null,
-   "kind": "movie",
-   "points": 4.2,
-   "score": null,
-   "charts": [
-    "Netflix US #4"
-   ],
-   "source": "Netflix US",
-   "rank": 4
-  },
-  {
-   "title": "The Americans",
+   "title": "Jujutsu Kaisen",
    "year": null,
    "kind": "series",
-   "points": 4.2,
-   "score": 84,
+   "points": 4.3,
+   "score": 85,
    "charts": [
     "Apple TV US #8"
    ],
@@ -1316,93 +1322,45 @@
    "rank": 8
   },
   {
-   "title": "Star Trek: Picard",
+   "title": "Ms. Rachel",
    "year": null,
    "kind": "series",
-   "points": 4.1,
-   "score": 75,
-   "charts": [
-    "Apple TV CA #9",
-    "Apple TV US #10"
-   ],
-   "source": "Apple TV",
-   "rank": 9
-  },
-  {
-   "title": "The End of Oak Street",
-   "year": "2026",
-   "kind": "movie",
-   "points": 4.1,
-   "score": 69,
-   "charts": [
-    "Simkl #7"
-   ],
-   "source": "Simkl",
-   "rank": 7
-  },
-  {
-   "title": "Russell Brand: Open Secret",
-   "year": null,
-   "kind": "movie",
    "points": 4.0,
-   "score": null,
+   "score": 70,
    "charts": [
-    "Netflix CA #7"
-   ],
-   "source": "Netflix",
-   "rank": 7
-  },
-  {
-   "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
-   "year": "2023",
-   "kind": "movie",
-   "points": 4.0,
-   "score": null,
-   "charts": [
-    "Apple TV CA #7"
-   ],
-   "source": "Apple TV",
-   "rank": 7
-  },
-  {
-   "title": "Power",
-   "year": null,
-   "kind": "series",
-   "points": 3.9,
-   "score": 81,
-   "charts": [
-    "Netflix US #8"
+    "Netflix US #6"
    ],
    "source": "Netflix US",
-   "rank": 8
+   "rank": 6
   },
   {
-   "title": "You Can See Everything",
-   "year": "2026",
-   "kind": "movie",
-   "points": 3.8,
-   "score": 98,
-   "charts": [],
-   "source": "Critics",
-   "rank": 1
-  },
-  {
-   "title": "Musk",
-   "year": "2026",
-   "kind": "movie",
-   "points": 3.6,
-   "score": null,
-   "charts": [
-    "Apple TV CA #8",
-    "Apple TV US #10"
-   ],
-   "source": "Apple TV",
-   "rank": 8
-  },
-  {
-   "title": "The Office: Superfan Extended Episodes",
+   "title": "Friends",
    "year": null,
    "kind": "series",
+   "points": 3.8,
+   "score": 88,
+   "charts": [
+    "Apple TV CA #10"
+   ],
+   "source": "Apple TV",
+   "rank": 10
+  },
+  {
+   "title": "Spider-Man: Across the Spider-Verse",
+   "year": "2023",
+   "kind": "movie",
+   "points": 3.6,
+   "score": 86,
+   "charts": [
+    "Apple TV CA #10"
+   ],
+   "source": "Apple TV",
+   "rank": 10
+  },
+  {
+   "title": "Verity",
+   "year": "2026",
+   "kind": "movie",
    "points": 3.6,
    "score": null,
    "charts": [
@@ -1412,16 +1370,16 @@
    "rank": 5
   },
   {
-   "title": "Tracker",
-   "year": "2024",
+   "title": "Westworld",
+   "year": null,
    "kind": "series",
    "points": 3.6,
-   "score": 72,
+   "score": 84,
    "charts": [
-    "Simkl #8"
+    "Apple TV US #9"
    ],
-   "source": "Simkl",
-   "rank": 8
+   "source": "Apple TV US",
+   "rank": 9
   },
   {
    "title": "Naza",
@@ -1434,23 +1392,35 @@
    "rank": 1
   },
   {
-   "title": "Taboo",
-   "year": null,
+   "title": "Percy Jackson and the Olympians",
+   "year": "2023",
    "kind": "series",
-   "points": 3.3,
-   "score": 83,
+   "points": 3.4,
+   "score": 70,
    "charts": [
-    "Apple TV CA #10"
+    "Simkl #8"
    ],
-   "source": "Apple TV",
-   "rank": 10
+   "source": "Simkl",
+   "rank": 8
   },
   {
-   "title": "The Holiday",
+   "title": "Other Mommy",
+   "year": "2026",
+   "kind": "movie",
+   "points": 3.2,
+   "score": null,
+   "charts": [
+    "Simkl #7"
+   ],
+   "source": "Simkl",
+   "rank": 7
+  },
+  {
+   "title": "Christmas On The Ranch",
    "year": null,
    "kind": "movie",
    "points": 3.0,
-   "score": 52,
+   "score": null,
    "charts": [
     "Netflix CA #8"
    ],
@@ -1458,7 +1428,7 @@
    "rank": 8
   },
   {
-   "title": "The One About Matthew Perry",
+   "title": "Cunk on Cinema",
    "year": null,
    "kind": "series",
    "points": 3.0,
@@ -1470,16 +1440,40 @@
    "rank": 8
   },
   {
-   "title": "Tenet",
-   "year": "2020",
-   "kind": "movie",
-   "points": 2.9,
-   "score": 69,
+   "title": "Miami Vice, The Season 1-5 Collection",
+   "year": null,
+   "kind": "series",
+   "points": 3.0,
+   "score": null,
    "charts": [
-    "Apple TV CA #9"
+    "Apple TV US #6"
+   ],
+   "source": "Apple TV US",
+   "rank": 6
+  },
+  {
+   "title": "Practical Magic 2",
+   "year": "2026",
+   "kind": "movie",
+   "points": 3.0,
+   "score": null,
+   "charts": [
+    "Apple TV CA #8"
    ],
    "source": "Apple TV",
-   "rank": 9
+   "rank": 8
+  },
+  {
+   "title": "The Gospel of Christmas",
+   "year": null,
+   "kind": "movie",
+   "points": 3.0,
+   "score": null,
+   "charts": [
+    "Netflix US #6"
+   ],
+   "source": "Netflix US",
+   "rank": 6
   },
   {
    "title": "Mouse",
@@ -1495,11 +1489,7 @@
  "netflix": {
   "movies": [
    {
-    "title": "The Christmas Switch",
-    "year": null
-   },
-   {
-    "title": "A Dog's Perfect Christmas",
+    "title": "Guarding Stars",
     "year": null
    },
    {
@@ -1507,11 +1497,19 @@
     "year": null
    },
    {
-    "title": "Carolina Caroline",
+    "title": "Russell Brand: Open Secret",
     "year": null
    },
    {
-    "title": "The Unthinkable Daughter",
+    "title": "Steps",
+    "year": null
+   },
+   {
+    "title": "Dr. Seuss' The Grinch",
+    "year": null
+   },
+   {
+    "title": "The Christmas Switch",
     "year": null
    },
    {
@@ -1519,23 +1517,19 @@
     "year": null
    },
    {
-    "title": "Russell Brand: Open Secret",
+    "title": "Christmas On The Ranch",
     "year": null
    },
    {
-    "title": "The Holiday",
+    "title": "The Boss Baby: Family Business",
     "year": null
    },
    {
-    "title": "187",
+    "title": "The Unthinkable Daughter",
     "year": null
    },
    {
-    "title": "The Good Lawyer",
-    "year": null
-   },
-   {
-    "title": "Reminders of Him",
+    "title": "Obsession",
     "year": null
    },
    {
@@ -1543,15 +1537,15 @@
     "year": null
    },
    {
-    "title": "Funny Money: The Dane Cook Story",
+    "title": "Reminders of Him",
     "year": null
    },
    {
-    "title": "The Croods",
+    "title": "Insidious: Out of the Further",
     "year": null
    },
    {
-    "title": "The Day After Tomorrow",
+    "title": "Despicable Me 4",
     "year": null
    },
    {
@@ -1559,35 +1553,7 @@
     "year": null
    },
    {
-    "title": "Sing 2",
-    "year": null
-   },
-   {
     "title": "How the Grinch Stole Christmas",
-    "year": null
-   },
-   {
-    "title": "All the Pretty Horses",
-    "year": null
-   },
-   {
-    "title": "Sing",
-    "year": null
-   },
-   {
-    "title": "The One",
-    "year": null
-   },
-   {
-    "title": "My Best Friend",
-    "year": null
-   },
-   {
-    "title": "Collision Course",
-    "year": null
-   },
-   {
-    "title": "One Year to Live, Buy a Man",
     "year": null
    },
    {
@@ -1597,11 +1563,31 @@
    {
     "title": "Ranabaali",
     "year": null
+   },
+   {
+    "title": "The Good Lawyer",
+    "year": null
+   },
+   {
+    "title": "My Best Friend",
+    "year": null
+   },
+   {
+    "title": "The One",
+    "year": null
+   },
+   {
+    "title": "One Year to Live, Buy a Man",
+    "year": null
+   },
+   {
+    "title": "Collision Course",
+    "year": null
    }
   ],
   "shows": [
    {
-    "title": "Taken: Natalee Holloway",
+    "title": "The Body",
     "year": null
    },
    {
@@ -1609,19 +1595,7 @@
     "year": null
    },
    {
-    "title": "The Body",
-    "year": null
-   },
-   {
-    "title": "Doozie's Doghouse",
-    "year": null
-   },
-   {
-    "title": "Nobody Wants This",
-    "year": null
-   },
-   {
-    "title": "North of North",
+    "title": "The Law of Beasts",
     "year": null
    },
    {
@@ -1629,27 +1603,7 @@
     "year": null
    },
    {
-    "title": "The One About Matthew Perry",
-    "year": null
-   },
-   {
-    "title": "Love Is Blind",
-    "year": null
-   },
-   {
-    "title": "From",
-    "year": null
-   },
-   {
-    "title": "Power",
-    "year": null
-   },
-   {
-    "title": "Danny Go!",
-    "year": null
-   },
-   {
-    "title": "Anaesthesia",
+    "title": "WWE SmackDown",
     "year": null
    },
    {
@@ -1657,7 +1611,59 @@
     "year": null
    },
    {
+    "title": "Taken: Natalee Holloway",
+    "year": null
+   },
+   {
+    "title": "Cunk on Cinema",
+    "year": null
+   },
+   {
+    "title": "Mike Ward: Modest",
+    "year": null
+   },
+   {
+    "title": "Nobody Wants This",
+    "year": null
+   },
+   {
+    "title": "From",
+    "year": null
+   },
+   {
+    "title": "Danny Go!",
+    "year": null
+   },
+   {
+    "title": "Ms. Rachel",
+    "year": null
+   },
+   {
+    "title": "Doozie's Doghouse",
+    "year": null
+   },
+   {
+    "title": "Power",
+    "year": null
+   },
+   {
+    "title": "Murder in Galicia",
+    "year": null
+   },
+   {
+    "title": "Alicia's Law",
+    "year": null
+   },
+   {
     "title": "Lupin",
+    "year": null
+   },
+   {
+    "title": "ChiaroScuro",
+    "year": null
+   },
+   {
+    "title": "The Blue Road",
     "year": null
    },
    {
@@ -1669,19 +1675,7 @@
     "year": null
    },
    {
-    "title": "Alicia's Law",
-    "year": null
-   },
-   {
-    "title": "Murder in Galicia",
-    "year": null
-   },
-   {
-    "title": "A Couple of Lies",
-    "year": null
-   },
-   {
-    "title": "The Devil's Plan",
+    "title": "Anaesthesia",
     "year": null
    }
   ]
@@ -1693,9 +1687,9 @@
    "kind": "movie"
   },
   {
-   "title": "Black Doves",
-   "year": "2024",
-   "kind": "series"
+   "title": "Guarding Stars",
+   "year": "2026",
+   "kind": "movie"
   },
   {
    "title": "The Body",
@@ -1703,7 +1697,12 @@
    "kind": "series"
   },
   {
-   "title": "Heart of the Beast",
+   "title": "Black Doves",
+   "year": "2024",
+   "kind": "series"
+  },
+  {
+   "title": "Heartland",
    "year": "2026",
    "kind": "movie"
   },
@@ -1713,14 +1712,9 @@
    "kind": "movie"
   },
   {
-   "title": "Heartland",
+   "title": "Heart of the Beast",
    "year": "2026",
    "kind": "movie"
-  },
-  {
-   "title": "Taken: Natalee Holloway",
-   "year": null,
-   "kind": "series"
   },
   {
    "title": "Resident Evil",
@@ -1728,34 +1722,24 @@
    "kind": "movie"
   },
   {
-   "title": "A Dog's Perfect Christmas",
+   "title": "You Can See Everything",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "The Christmas Switch",
+   "title": "Steps",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "Nobody Wants This",
-   "year": "2024",
-   "kind": "series"
-  },
-  {
-   "title": "Never Surrender",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Primetime",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Doozie's Doghouse",
+   "title": "Raw",
    "year": null,
    "kind": "series"
+  },
+  {
+   "title": "Obsession",
+   "year": "2026",
+   "kind": "movie"
   },
   {
    "title": "Star Trek: The Next Generation",
@@ -1768,43 +1752,38 @@
    "kind": "series"
   },
   {
-   "title": "Raw",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Other Mommy",
+   "title": "Russell Brand: Open Secret",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "Verity",
+   "title": "Never Surrender",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "Star Trek: Enterprise",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The End of Oak Street",
+   "title": "The Christmas Switch",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "Carolina Caroline",
+   "title": "Taken: Natalee Holloway",
    "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "Rick and Morty",
-   "year": "2013",
    "kind": "series"
   },
   {
-   "title": "Dexter: Resurrection",
-   "year": "2025",
+   "title": "Primetime",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Grey’s Anatomy",
+   "year": "2005",
+   "kind": "series"
+  },
+  {
+   "title": "The Law of Beasts",
+   "year": null,
    "kind": "series"
   },
   {
@@ -1813,202 +1792,32 @@
    "kind": "series"
   },
   {
-   "title": "Grey’s Anatomy",
-   "year": "2005",
-   "kind": "series"
-  },
-  {
-   "title": "VisionQuest",
+   "title": "Verity",
    "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "The Unthinkable Daughter",
-   "year": null,
    "kind": "movie"
   },
   {
-   "title": "The Curse of Oak Island",
+   "title": "Nobody Wants This",
+   "year": "2024",
+   "kind": "series"
+  },
+  {
+   "title": "The Empress",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Friends",
-   "year": "1994",
+   "title": "Dexter: Resurrection",
+   "year": "2025",
    "kind": "series"
   },
   {
-   "title": "Musk",
+   "title": "Other Mommy",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "The Batman",
-   "year": "2022",
-   "kind": "movie"
-  },
-  {
-   "title": "Drink Coffee, Talk Fast: A Documentary About Gilmore Girls",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "South Park",
-   "year": "1997",
-   "kind": "series"
-  },
-  {
-   "title": "The Lord of the Rings: The Rings of Power",
-   "year": "2022",
-   "kind": "series"
-  },
-  {
-   "title": "Reminders of Him",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "The Gospel of Christmas",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "Lupin",
-   "year": "2021",
-   "kind": "series"
-  },
-  {
-   "title": "Seinfeld",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Obsession",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Good Lawyer",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "Star Trek: Picard",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Dog Stars",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Tulsa King",
-   "year": "2022",
-   "kind": "series"
-  },
-  {
-   "title": "Power",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Runner",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Funny Money: The Dane Cook Story",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Game of Thrones",
-   "year": "2011",
-   "kind": "series"
-  },
-  {
-   "title": "Mad Men",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The One About Matthew Perry",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Toy Story 5",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Tenet",
-   "year": "2020",
-   "kind": "movie"
-  },
-  {
-   "title": "Weeds",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Billions",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Coyote vs. Acme",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Mutiny",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
-   "year": "2023",
-   "kind": "movie"
-  },
-  {
-   "title": "North of North",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Project Hail Mary",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Godzilla Minus One",
-   "year": "2023",
-   "kind": "movie"
-  },
-  {
-   "title": "Nocturne",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "House of the Dragon",
-   "year": "2022",
-   "kind": "series"
-  },
-  {
-   "title": "The Invite",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Dead-End Job",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "Hope",
+   "title": "The End of Oak Street",
    "year": "2026",
    "kind": "movie"
   },
@@ -2018,9 +1827,99 @@
    "kind": "movie"
   },
   {
+   "title": "Mutiny",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Coyote vs. Acme",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Dr. Seuss' The Grinch",
+   "year": null,
+   "kind": "movie"
+  },
+  {
+   "title": "Friends",
+   "year": "1994",
+   "kind": "series"
+  },
+  {
    "title": "Taboo",
    "year": null,
    "kind": "series"
+  },
+  {
+   "title": "The Lord of the Rings: The Rings of Power",
+   "year": "2022",
+   "kind": "series"
+  },
+  {
+   "title": "VisionQuest",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Game of Thrones",
+   "year": "2011",
+   "kind": "series"
+  },
+  {
+   "title": "Star Trek: Enterprise",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Tulsa King",
+   "year": "2022",
+   "kind": "series"
+  },
+  {
+   "title": "Danny Go!",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Star Trek: Deep Space Nine",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Curse of Oak Island",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Unthinkable Daughter",
+   "year": null,
+   "kind": "movie"
+  },
+  {
+   "title": "By Any Means",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Lupin",
+   "year": "2021",
+   "kind": "series"
+  },
+  {
+   "title": "Project Hail Mary",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Rick and Morty",
+   "year": "2013",
+   "kind": "series"
+  },
+  {
+   "title": "Practical Magic 2",
+   "year": "2026",
+   "kind": "movie"
   },
   {
    "title": "Tracker",
@@ -2028,29 +1927,24 @@
    "kind": "series"
   },
   {
-   "title": "Doctor X: Mafia in White",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "Russell Brand: Open Secret",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Allen",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Americans",
+   "title": "Star Trek: Picard",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Slow Horses",
-   "year": "2022",
+   "title": "Billions",
+   "year": null,
    "kind": "series"
+  },
+  {
+   "title": "WWE SmackDown",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Invite",
+   "year": "2026",
+   "kind": "movie"
   },
   {
    "title": "Star Trek: The Original Series (Remastered)",
@@ -2058,23 +1952,8 @@
    "kind": "series"
   },
   {
-   "title": "Breaking Bad",
-   "year": "2008",
-   "kind": "series"
-  },
-  {
-   "title": "Abbott Elementary",
-   "year": "2021",
-   "kind": "series"
-  },
-  {
-   "title": "Georgie & Mandy's First Marriage",
-   "year": "2024",
-   "kind": "series"
-  },
-  {
-   "title": "9-1-1",
-   "year": "2018",
+   "title": "War",
+   "year": "2026",
    "kind": "series"
   },
   {
@@ -2083,13 +1962,88 @@
    "kind": "movie"
   },
   {
+   "title": "The Big Bang Theory",
+   "year": "2007",
+   "kind": "series"
+  },
+  {
+   "title": "Nocturne",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+   "year": "2023",
+   "kind": "movie"
+  },
+  {
+   "title": "Runner",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Spider-Man: Across the Spider-Verse",
+   "year": "2023",
+   "kind": "movie"
+  },
+  {
+   "title": "Supernatural",
+   "year": "2005",
+   "kind": "series"
+  },
+  {
+   "title": "South Park",
+   "year": "1997",
+   "kind": "series"
+  },
+  {
+   "title": "The Gospel of Christmas",
+   "year": null,
+   "kind": "movie"
+  },
+  {
+   "title": "Frieren: Beyond Journey's End",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Musk",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "The Hunger Games: Mockingjay - Part 1",
+   "year": "2014",
+   "kind": "movie"
+  },
+  {
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Insidious: Out of the Further",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Hope",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Georgie & Mandy's First Marriage",
+   "year": "2024",
+   "kind": "series"
+  },
+  {
    "title": "Dune: Part Two",
    "year": "2024",
    "kind": "movie"
   },
   {
-   "title": "Scrubs",
-   "year": "2026",
+   "title": "Percy Jackson and the Olympians",
+   "year": "2023",
    "kind": "series"
   },
   {
@@ -2098,8 +2052,18 @@
    "kind": "series"
   },
   {
-   "title": "You Can See Everything",
-   "year": "2026",
+   "title": "9-1-1",
+   "year": "2018",
+   "kind": "series"
+  },
+  {
+   "title": "House of the Dragon",
+   "year": "2022",
+   "kind": "series"
+  },
+  {
+   "title": "The Hunger Games: Mockingjay - Part 2",
+   "year": "2015",
    "kind": "movie"
   },
   {
@@ -2108,98 +2072,13 @@
    "kind": "series"
   },
   {
-   "title": "Star Trek: Lower Decks",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Law & Order: Special Victims Unit",
-   "year": "1999",
-   "kind": "series"
-  },
-  {
-   "title": "Anaesthesia",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The X-Files, Seasons 1-11",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "By Any Means",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Lanterns",
+   "title": "Dead-End Job",
    "year": "2026",
    "kind": "series"
   },
   {
-   "title": "Stick",
-   "year": "2025",
-   "kind": "series"
-  },
-  {
-   "title": "Street Fighter",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Holiday",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "Disclosure Day",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Die My Love",
-   "year": "2025",
-   "kind": "movie"
-  },
-  {
-   "title": "Forgotten Island",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Minions & Monsters",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Beast",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Love Is Blind",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Better Call Saul",
-   "year": "2015",
-   "kind": "series"
-  },
-  {
-   "title": "Star Trek: Voyager",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Sense and Sensibility",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Ted Lasso",
-   "year": "2020",
+   "title": "Dexter",
+   "year": "2006",
    "kind": "series"
   },
   {
@@ -2208,7 +2087,87 @@
    "kind": "series"
   },
   {
-   "title": "187",
+   "title": "Chicago P.D.",
+   "year": "2014",
+   "kind": "series"
+  },
+  {
+   "title": "Buddy",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Jujutsu Kaisen",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Doctor X: Mafia in White",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "The X-Files, Seasons 1-11",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Lanterns",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Slow Horses",
+   "year": "2022",
+   "kind": "series"
+  },
+  {
+   "title": "Stick",
+   "year": "2025",
+   "kind": "series"
+  },
+  {
+   "title": "Christmas On The Ranch",
+   "year": null,
+   "kind": "movie"
+  },
+  {
+   "title": "Cunk on Cinema",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Beast",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Westworld",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Allen",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Dune",
+   "year": "2021",
+   "kind": "movie"
+  },
+  {
+   "title": "Disclosure Day",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Mike Ward: Modest",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Boss Baby: Family Business",
    "year": null,
    "kind": "movie"
   },
@@ -2218,43 +2177,8 @@
    "kind": "series"
   },
   {
-   "title": "Chicago P.D.",
-   "year": "2014",
-   "kind": "series"
-  },
-  {
-   "title": "Insidious: Out of the Further",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Practical Magic 2",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "30 Rock, Seasons 1-7 Collection",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Empress",
-   "year": null,
-   "kind": "series"
-  },
-  {
    "title": "The Gilded Age",
    "year": "2022",
-   "kind": "series"
-  },
-  {
-   "title": "The Big Bang Theory",
-   "year": "2007",
-   "kind": "series"
-  },
-  {
-   "title": "Dark Matter",
-   "year": "2024",
    "kind": "series"
   },
   {
@@ -2263,19 +2187,29 @@
    "kind": "series"
   },
   {
-   "title": "It's Always Sunny in Philadelphia",
-   "year": "2005",
+   "title": "Murder in Galicia",
+   "year": null,
    "kind": "series"
   },
   {
-   "title": "American Horror Story",
-   "year": "2011",
+   "title": "The Dog Stars",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Dark Matter",
+   "year": "2024",
    "kind": "series"
   },
   {
-   "title": "Supernatural",
-   "year": "2005",
+   "title": "The Rainmaker",
+   "year": "2025",
    "kind": "series"
+  },
+  {
+   "title": "Wicker",
+   "year": "2026",
+   "kind": "movie"
   },
   {
    "title": "FBI",
@@ -2283,18 +2217,48 @@
    "kind": "series"
   },
   {
-   "title": "I Want Your Sex",
+   "title": "The Social Reckoning",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "The Diplomat",
-   "year": "2023",
+   "title": "NCIS",
+   "year": "2003",
    "kind": "series"
   },
   {
-   "title": "The Mentalist",
-   "year": "2008",
+   "title": "Ted Lasso",
+   "year": "2020",
+   "kind": "series"
+  },
+  {
+   "title": "Home Alone",
+   "year": "1990",
+   "kind": "movie"
+  },
+  {
+   "title": "Scrubs",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "The Batman",
+   "year": "2022",
+   "kind": "movie"
+  },
+  {
+   "title": "Abbott Elementary",
+   "year": "2021",
+   "kind": "series"
+  },
+  {
+   "title": "The Dangerous Seduction",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Star Trek: Voyager",
+   "year": null,
    "kind": "series"
   },
   {
@@ -2303,8 +2267,63 @@
    "kind": "series"
   },
   {
-   "title": "Sheriff Country",
-   "year": "2025",
+   "title": "Ms. Rachel",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Spider-Man: No Way Home",
+   "year": "2021",
+   "kind": "movie"
+  },
+  {
+   "title": "Breaking Bad",
+   "year": "2008",
+   "kind": "series"
+  },
+  {
+   "title": "A Talent for Murder",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "The Mongoose",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Chicago Med",
+   "year": "2015",
+   "kind": "series"
+  },
+  {
+   "title": "Alicia's Law",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Daayra",
+   "year": null,
+   "kind": "movie"
+  },
+  {
+   "title": "The Mentalist",
+   "year": "2008",
+   "kind": "series"
+  },
+  {
+   "title": "Blue Mountain State",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Diplomat",
+   "year": "2023",
+   "kind": "series"
+  },
+  {
+   "title": "The Office (US)",
+   "year": "2005",
    "kind": "series"
   },
   {
@@ -2313,29 +2332,94 @@
    "kind": "series"
   },
   {
-   "title": "NCIS",
-   "year": "2003",
-   "kind": "series"
+   "title": "Forgotten Island",
+   "year": "2026",
+   "kind": "movie"
   },
   {
-   "title": "Dexter",
-   "year": "2006",
-   "kind": "series"
+   "title": "The Sheep Detectives",
+   "year": "2026",
+   "kind": "movie"
   },
   {
-   "title": "Star Trek: Deep Space Nine",
+   "title": "Little House on the Prairie",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Dune",
+   "title": "Ghosts (US)",
    "year": "2021",
+   "kind": "series"
+  },
+  {
+   "title": "Doozie's Doghouse",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Ranabaali",
+   "year": null,
    "kind": "movie"
   },
   {
-   "title": "Buddy",
+   "title": "Mad Men",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Yellowjackets",
+   "year": "2021",
+   "kind": "series"
+  },
+  {
+   "title": "Elsbeth",
+   "year": "2024",
+   "kind": "series"
+  },
+  {
+   "title": "It's Always Sunny in Philadelphia",
+   "year": "2005",
+   "kind": "series"
+  },
+  {
+   "title": "Mutant X",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Avatar: Seven Havens",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "American Horror Story",
+   "year": "2011",
+   "kind": "series"
+  },
+  {
+   "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+   "year": "2023",
+   "kind": "movie"
+  },
+  {
+   "title": "CIA",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Silo",
+   "year": "2023",
+   "kind": "series"
+  },
+  {
+   "title": "Sense and Sensibility",
    "year": "2026",
    "kind": "movie"
+  },
+  {
+   "title": "NCIS: Origins",
+   "year": "2024",
+   "kind": "series"
   },
   {
    "title": "A Story of Derry",
@@ -2343,8 +2427,63 @@
    "kind": "movie"
   },
   {
-   "title": "How I Met Your Mother, Complete Series",
+   "title": "ChiaroScuro",
    "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Despicable Me 4",
+   "year": null,
+   "kind": "movie"
+  },
+  {
+   "title": "Miami Vice, The Season 1-5 Collection",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Good Lawyer",
+   "year": null,
+   "kind": "movie"
+  },
+  {
+   "title": "The Chosen",
+   "year": "2019",
+   "kind": "series"
+  },
+  {
+   "title": "The Gentlemen",
+   "year": "2024",
+   "kind": "series"
+  },
+  {
+   "title": "Fjord",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Law & Order: Special Victims Unit",
+   "year": "1999",
+   "kind": "series"
+  },
+  {
+   "title": "Home Alone 2: Lost In New York",
+   "year": "1992",
+   "kind": "movie"
+  },
+  {
+   "title": "Modern Family",
+   "year": "2009",
+   "kind": "series"
+  },
+  {
+   "title": "Seinfeld",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Outlander: Blood of My Blood",
+   "year": "2025",
    "kind": "series"
   },
   {
@@ -2353,42 +2492,97 @@
    "kind": "series"
   },
   {
+   "title": "St. Denis Medical",
+   "year": "2024",
+   "kind": "series"
+  },
+  {
+   "title": "Reacher",
+   "year": "2022",
+   "kind": "series"
+  },
+  {
+   "title": "30 Rock, Seasons 1-7 Collection",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "My Best Friend",
+   "year": null,
+   "kind": "movie"
+  },
+  {
+   "title": "Power",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Reminders of Him",
+   "year": null,
+   "kind": "movie"
+  },
+  {
+   "title": "The Blue Road",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Michael",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
    "title": "Avengers: Endgame",
    "year": "2019",
    "kind": "movie"
   },
   {
-   "title": "The Rainmaker",
-   "year": "2025",
-   "kind": "series"
+   "title": "Tenet",
+   "year": "2020",
+   "kind": "movie"
   },
   {
-   "title": "The Chosen",
-   "year": "2019",
-   "kind": "series"
-  },
-  {
-   "title": "China Beach",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Avatar Aang: The Last Airbender",
+   "title": "Collision Course",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "The Office (US)",
-   "year": "2005",
+   "title": "The Weight",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Street Fighter",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "12 12 12",
+   "year": "2026",
    "kind": "series"
   },
   {
-   "title": "Chicago Med",
-   "year": "2015",
+   "title": "How I Met Your Mother, Complete Series",
+   "year": null,
    "kind": "series"
   },
   {
-   "title": "The Office: Superfan Extended Episodes",
+   "title": "Godzilla Minus One",
+   "year": "2023",
+   "kind": "movie"
+  },
+  {
+   "title": "Fall 2: Deadpoint",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Drink Coffee, Talk Fast: A Documentary About Gilmore Girls",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Rookie Blue",
    "year": null,
    "kind": "series"
   },
@@ -2403,278 +2597,13 @@
    "kind": "series"
   },
   {
-   "title": "Casino Royale",
-   "year": "2006",
-   "kind": "movie"
-  },
-  {
-   "title": "Elsbeth",
-   "year": "2024",
-   "kind": "series"
-  },
-  {
-   "title": "Collision Course",
+   "title": "Minions & Monsters",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "Rogue",
+   "title": "Star Trek: Animated",
    "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Avatar: Seven Havens",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "Planes, Trains and Automobiles",
-   "year": "1987",
-   "kind": "movie"
-  },
-  {
-   "title": "Silo",
-   "year": "2023",
-   "kind": "series"
-  },
-  {
-   "title": "Rookie Blue",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Super Mario Galaxy Movie",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Ghosts (US)",
-   "year": "2021",
-   "kind": "series"
-  },
-  {
-   "title": "The Gentlemen",
-   "year": "2024",
-   "kind": "series"
-  },
-  {
-   "title": "Clayface",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Mongoose",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Alicia's Law",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "My Best Friend",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "Sing 2",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "Godzilla Minus Zero",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "NCIS: Origins",
-   "year": "2024",
-   "kind": "series"
-  },
-  {
-   "title": "Reacher",
-   "year": "2022",
-   "kind": "series"
-  },
-  {
-   "title": "The Hunger Games: Mockingjay - Part 1",
-   "year": "2014",
-   "kind": "movie"
-  },
-  {
-   "title": "Modern Family",
-   "year": "2009",
-   "kind": "series"
-  },
-  {
-   "title": "How the Grinch Stole Christmas",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "Murder in Galicia",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Croods",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "Westworld",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Fire Country",
-   "year": "2022",
-   "kind": "series"
-  },
-  {
-   "title": "The Boys",
-   "year": "2019",
-   "kind": "series"
-  },
-  {
-   "title": "Doctor Who, The Peter Capaldi Years",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Your Mother Your Mother Your Mother",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "WAR",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "Doctor Who, The Matt Smith Years",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Fall 2: Deadpoint",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Hunger Games: Mockingjay - Part 2",
-   "year": "2015",
-   "kind": "movie"
-  },
-  {
-   "title": "Lord of the Flies",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Frasier (Original)",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Star Trek: Prodigy",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Backrooms",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "A Couple of Lies",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "One Year to Live, Buy a Man",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "CIA",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "St. Denis Medical",
-   "year": "2024",
-   "kind": "series"
-  },
-  {
-   "title": "Indiana Jones and the Last Crusade",
-   "year": "1989",
-   "kind": "movie"
-  },
-  {
-   "title": "Law & Order",
-   "year": "1990",
-   "kind": "series"
-  },
-  {
-   "title": "Doctor Who, The Christopher Eccleston & David Tennant Years",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "12 12 12",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "Widow's Bay",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "The History of Concrete",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The West Wing",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "All the Pretty Horses",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "Daayra",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "Danny Go!",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Day After Tomorrow",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "The Devil's Plan",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Family Guy",
-   "year": "1999",
-   "kind": "series"
-  },
-  {
-   "title": "The Institute",
-   "year": "2025",
    "kind": "series"
   },
   {
@@ -2683,7 +2612,7 @@
    "kind": "series"
   },
   {
-   "title": "The Wire",
+   "title": "The Americans",
    "year": null,
    "kind": "series"
   },
@@ -2693,48 +2622,18 @@
    "kind": "series"
   },
   {
-   "title": "The Rookie",
-   "year": "2018",
-   "kind": "series"
-  },
-  {
-   "title": "Mike Judge's Beavis and Butt-Head",
-   "year": "2022",
-   "kind": "series"
-  },
-  {
-   "title": "Home Alone",
-   "year": "1990",
-   "kind": "movie"
-  },
-  {
-   "title": "Ranabaali",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "Sing",
-   "year": null,
-   "kind": "movie"
-  },
-  {
-   "title": "100 Days of Deception",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "The Borgias",
+   "title": "Broad City: The Complete Series (Uncensored)",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Harry Potter and the Philosopher's Stone",
-   "year": "2001",
-   "kind": "movie"
+   "title": "The Institute",
+   "year": "2025",
+   "kind": "series"
   },
   {
-   "title": "Eternally Yours",
-   "year": "2026",
+   "title": "Family Guy",
+   "year": "1999",
    "kind": "series"
   },
   {
@@ -2743,7 +2642,152 @@
    "kind": "series"
   },
   {
-   "title": "Cheers",
+   "title": "Comedy Bang! Bang!",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Planes, Trains and Automobiles",
+   "year": "1987",
+   "kind": "movie"
+  },
+  {
+   "title": "Madden",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "CSI",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "I Want Your Sex",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "One Year to Live, Buy a Man",
+   "year": null,
+   "kind": "movie"
+  },
+  {
+   "title": "The Super Mario Galaxy Movie",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "The Good Daughter",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Lioness",
+   "year": "2023",
+   "kind": "series"
+  },
+  {
+   "title": "Toy Story 5",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "100 Days of Deception",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Rudolph the Red-Nosed Reindeer",
+   "year": "2016",
+   "kind": "movie"
+  },
+  {
+   "title": "Ali G: Who Iz I?",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Widow's Bay",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Godzilla Minus Zero",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "The West Wing",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Rookie",
+   "year": "2018",
+   "kind": "series"
+  },
+  {
+   "title": "Rivals",
+   "year": "2024",
+   "kind": "series"
+  },
+  {
+   "title": "Mike Judge's Beavis and Butt-Head",
+   "year": "2022",
+   "kind": "series"
+  },
+  {
+   "title": "The Remarried Empress",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Anaesthesia",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "How the Grinch Stole Christmas",
+   "year": null,
+   "kind": "movie"
+  },
+  {
+   "title": "The Office: Superfan Extended Episodes",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Backrooms",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Eternally Yours",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Shetland",
+   "year": "2013",
+   "kind": "series"
+  },
+  {
+   "title": "Animal Control",
+   "year": "2023",
+   "kind": "series"
+  },
+  {
+   "title": "Weeds",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "9-1-1: Nashville",
+   "year": "2025",
+   "kind": "series"
+  },
+  {
+   "title": "Doctor Who, The Christopher Eccleston & David Tennant Years",
    "year": null,
    "kind": "series"
   },
@@ -2753,37 +2797,12 @@
    "kind": "series"
   },
   {
-   "title": "Rivals",
-   "year": "2024",
-   "kind": "series"
-  },
-  {
-   "title": "Hawaii Five-0 (Reboot)",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Lioness",
-   "year": "2023",
-   "kind": "series"
-  },
-  {
-   "title": "Ali G: Who Iz I?",
-   "year": "2026",
+   "title": "Illumination Presents: Dr. Seuss' The Grinch",
+   "year": "2018",
    "kind": "movie"
   },
   {
-   "title": "Animal Control",
-   "year": "2023",
-   "kind": "series"
-  },
-  {
-   "title": "Apocalypse Z: New World",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Blue Mountain State",
+   "title": "Parks and Recreation",
    "year": null,
    "kind": "series"
   },
@@ -2793,38 +2812,13 @@
    "kind": "series"
   },
   {
-   "title": "The Good Daughter",
-   "year": "2026",
+   "title": "The Boys",
+   "year": "2019",
    "kind": "series"
   },
   {
-   "title": "Gilmore Girls",
+   "title": "Ted",
    "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Futurama",
-   "year": "1999",
-   "kind": "series"
-  },
-  {
-   "title": "Parks and Recreation",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Tenzing",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Indiana Jones and the Raiders of the Lost Ark",
-   "year": "1981",
-   "kind": "movie"
-  },
-  {
-   "title": "9-1-1: Nashville",
-   "year": "2025",
    "kind": "series"
   },
   {
@@ -2833,113 +2827,43 @@
    "kind": "series"
   },
   {
-   "title": "The Cycle",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Jurassic Park",
-   "year": "1993",
-   "kind": "movie"
-  },
-  {
-   "title": "Survivor",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Remarried Empress",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "Guarding Stars",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-   "year": "2023",
-   "kind": "movie"
-  },
-  {
-   "title": "Yaga",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "Stargate Atlantis",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Boston Blue",
+   "title": "Sheriff Country",
    "year": "2025",
    "kind": "series"
   },
   {
-   "title": "Gotham",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Loki",
-   "year": "2021",
-   "kind": "series"
-  },
-  {
-   "title": "This City Is Ours",
-   "year": "2025",
-   "kind": "series"
-  },
-  {
-   "title": "Stargate Universe",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Outlander: Blood of My Blood",
-   "year": "2025",
-   "kind": "series"
-  },
-  {
-   "title": "East of Eden",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "Super Troopers 3",
+   "title": "De Gaulle: Résistance (part 1) (Subtitled)",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "Campus Drivers",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "Matchbox the Movie",
-   "year": "2026",
+   "title": "Dr. Seuss' How the Grinch Stole Christmas",
+   "year": "2000",
    "kind": "movie"
   },
   {
-   "title": "Ebenezer",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Miami Vice, The Season 1-5 Collection",
+   "title": "Avatar: The Last Airbender",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Star Trek: Strange New Worlds",
-   "year": "2022",
-   "kind": "series"
+   "title": "Spider-Man: Homecoming",
+   "year": "2017",
+   "kind": "movie"
   },
   {
-   "title": "Indiana Jones and the Temple of Doom",
-   "year": "1984",
+   "title": "Paw Patrol: The Dino Movie",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Arthur Christmas",
+   "year": "2012",
+   "kind": "movie"
+  },
+  {
+   "title": "Clayface",
+   "year": "2026",
    "kind": "movie"
   },
   {
@@ -2953,18 +2877,98 @@
    "kind": "series"
   },
   {
-   "title": "Lie to Me",
+   "title": "Star Trek: Prodigy",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Once Upon a Time in the West",
-   "year": "1969",
+   "title": "Fire Country",
+   "year": "2022",
+   "kind": "series"
+  },
+  {
+   "title": "Yaga",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "The Sopranos",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Ballerina: From the World of John Wick",
+   "year": "2025",
    "kind": "movie"
+  },
+  {
+   "title": "Rogue",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "How to Train Your Dragon",
+   "year": "2025",
+   "kind": "movie"
+  },
+  {
+   "title": "Avatar Aang: The Last Airbender",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Apocalypse Z: New World",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Star Trek: Lower Decks",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Loki",
+   "year": "2021",
+   "kind": "series"
+  },
+  {
+   "title": "China Beach",
+   "year": null,
+   "kind": "series"
   },
   {
    "title": "Phony",
    "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Frasier (Original)",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "East of Eden",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Elf",
+   "year": "2003",
+   "kind": "movie"
+  },
+  {
+   "title": "The Accountant 2",
+   "year": "2025",
+   "kind": "movie"
+  },
+  {
+   "title": "Interstellar",
+   "year": "2014",
+   "kind": "movie"
+  },
+  {
+   "title": "Hell's Paradise",
+   "year": null,
    "kind": "series"
   },
   {
@@ -2973,59 +2977,29 @@
    "kind": "series"
   },
   {
-   "title": "Animals",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Skyfall",
-   "year": "2012",
-   "kind": "movie"
-  },
-  {
-   "title": "Saving Private Ryan",
-   "year": "1998",
-   "kind": "movie"
-  },
-  {
-   "title": "De Gaulle: Résistance (part 1) (Subtitled)",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Dark Knight",
-   "year": "2008",
-   "kind": "movie"
-  },
-  {
-   "title": "A Knight of the Seven Kingdoms",
+   "title": "Heated Rivalry",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Paw Patrol: The Dino Movie",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Expanse",
+   "title": "Southern Charm",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Michael",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Inception",
-   "year": "2010",
-   "kind": "movie"
-  },
-  {
-   "title": "Star Trek: Discovery",
+   "title": "New Girl",
    "year": null,
    "kind": "series"
+  },
+  {
+   "title": "Dallas (Original)",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Your Mother Your Mother Your Mother",
+   "year": "2026",
+   "kind": "movie"
   },
   {
    "title": "Law & Order Toronto: Criminal Intent",
@@ -3033,102 +3007,62 @@
    "kind": "series"
   },
   {
-   "title": "Haunted Hotel",
-   "year": "2025",
-   "kind": "series"
-  },
-  {
-   "title": "Interstellar",
-   "year": "2014",
-   "kind": "movie"
-  },
-  {
-   "title": "Avengers: Infinity War",
-   "year": "2018",
-   "kind": "movie"
-  },
-  {
-   "title": "Avatar: The Last Airbender",
+   "title": "Californication",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Dr. Seuss' How the Grinch Stole Christmas",
-   "year": "2000",
-   "kind": "movie"
-  },
-  {
-   "title": "Mutant X",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Monster",
-   "year": "2022",
-   "kind": "series"
-  },
-  {
-   "title": "The Land Before Time",
-   "year": "1988",
-   "kind": "movie"
-  },
-  {
-   "title": "Neagley",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "The Weight",
+   "title": "Ebenezer",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "The Hunger Games: Sunrise on the Reaping",
+   "title": "Schitt's Creek",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Cycle",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "Blue Bloods",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Andromeda",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Illumination Presents: Dr. Seuss' The Grinch",
-   "year": "2018",
-   "kind": "movie"
-  },
-  {
-   "title": "Little House on the Prairie",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Teenage Mutant Ninja Turtles (1987)",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Deputy",
+   "title": "Matchbox the Movie",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "The Fall and Rise of Reggie Dinkins",
-   "year": "2026",
+   "title": "Law & Order",
+   "year": "1990",
    "kind": "series"
   },
   {
-   "title": "Orange Is the New Black",
+   "title": "A Knight of the Seven Kingdoms",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Star Trek: Animated",
+   "title": "Once Upon a Time...in Hollywood",
+   "year": "2019",
+   "kind": "movie"
+  },
+  {
+   "title": "Gotham",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Animals",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Backdraft",
+   "year": "1991",
+   "kind": "movie"
+  },
+  {
+   "title": "Seeking Persephone",
    "year": null,
    "kind": "series"
   },
@@ -3138,39 +3072,114 @@
    "kind": "series"
   },
   {
-   "title": "Spider-Man: No Way Home",
+   "title": "Avengers: Infinity War",
+   "year": "2018",
+   "kind": "movie"
+  },
+  {
+   "title": "Monster",
+   "year": "2022",
+   "kind": "series"
+  },
+  {
+   "title": "Tenzing",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Key & Peele",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Witch Hat Atelier (Simuldub)",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Blue Bloods",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Fall and Rise of Reggie Dinkins",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Lord of the Flies",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Neagley",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Orange Is the New Black",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Housemaid",
+   "year": "2025",
+   "kind": "movie"
+  },
+  {
+   "title": "The 100",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Hawaii Five-0 (Reboot)",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Cheers",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "How the Grinch Stole Christmas: The Ultimate Edition",
    "year": "2021",
    "kind": "movie"
   },
   {
-   "title": "Frasier (Reboot)",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Sheep Detectives",
-   "year": "2026",
+   "title": "Iron Man",
+   "year": "2008",
    "kind": "movie"
   },
   {
-   "title": "The Sopranos",
+   "title": "The Boondocks",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "R.J. Decker",
-   "year": "2026",
+   "title": "I Love Lucy",
+   "year": null,
    "kind": "series"
   },
   {
-   "title": "Deadpool & Wolverine",
-   "year": "2024",
+   "title": "Madam Secretary",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Outlander",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Curb Your Enthusiasm",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Fantastic 4: First Steps",
+   "year": "2025",
    "kind": "movie"
-  },
-  {
-   "title": "The Pitt, Seasons 1 & 2",
-   "year": null,
-   "kind": "series"
   },
   {
    "title": "Mayday",
@@ -3183,22 +3192,47 @@
    "kind": "movie"
   },
   {
-   "title": "Wildwood",
-   "year": "2026",
+   "title": "Thunderbolts*",
+   "year": "2025",
    "kind": "movie"
   },
   {
-   "title": "Nathan for You, Seasons 1-4",
+   "title": "The Avengers",
+   "year": "2012",
+   "kind": "movie"
+  },
+  {
+   "title": "Tacoma FD",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "My Adventures with Superman",
+   "title": "The Land Before Time",
+   "year": "1988",
+   "kind": "movie"
+  },
+  {
+   "title": "R.J. Decker",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Avengers: Age of Ultron",
+   "year": "2015",
+   "kind": "movie"
+  },
+  {
+   "title": "Criminal Minds",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Boy Meets World",
+   "title": "Campus Drivers",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Sex and the City",
    "year": null,
    "kind": "series"
   },
@@ -3208,62 +3242,87 @@
    "kind": "movie"
   },
   {
-   "title": "Tacoma FD",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Moana",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Under the Dome, Complete Series",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Adventure Time",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Challengers",
+   "title": "Deadpool & Wolverine",
    "year": "2024",
    "kind": "movie"
   },
   {
-   "title": "Doctor Who, The Jodie Whittaker Collection",
+   "title": "Psych",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Last Holiday",
-   "year": "2006",
-   "kind": "movie"
-  },
-  {
-   "title": "Avengers: Age of Ultron",
-   "year": "2015",
-   "kind": "movie"
-  },
-  {
-   "title": "Invader Zim",
+   "title": "Bleach (English)",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Key & Peele",
+   "title": "Boston Blue",
+   "year": "2025",
+   "kind": "series"
+  },
+  {
+   "title": "The Florist",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "The Mad Pooper",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "The Avengers",
-   "year": "2012",
+   "title": "Harry Potter and the Philosopher's Stone",
+   "year": "2001",
    "kind": "movie"
   },
   {
-   "title": "Euphoria",
+   "title": "The Pitt",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Last Temptation of Becky",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Stargate Atlantis",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Good Will Hunting",
+   "year": "1997",
+   "kind": "movie"
+  },
+  {
+   "title": "Tom Clancy's Jack Ryan: Ghost War",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Avatar: Fire and Ash",
+   "year": "2025",
+   "kind": "movie"
+  },
+  {
+   "title": "The Dark Knight",
+   "year": "2008",
+   "kind": "movie"
+  },
+  {
+   "title": "The Expanse",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Inception",
+   "year": "2010",
+   "kind": "movie"
+  },
+  {
+   "title": "Babylon 5",
    "year": null,
    "kind": "series"
   },
@@ -3273,57 +3332,42 @@
    "kind": "movie"
   },
   {
-   "title": "A Talent for Murder",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Criminal Minds",
+   "title": "The Day of the Jackal",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Curb Your Enthusiasm",
+   "title": "The 12 Days of Christmas Eve",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Schitt's Creek",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Boondocks",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Rolling Loud: The Movie",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Last Kingdom",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "A Knight's Tale",
-   "year": "2007",
-   "kind": "movie"
-  },
-  {
-   "title": "Better Off Ted",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Doctor Strange in the Multiverse of Madness",
+   "title": "Reasonable Doubt",
    "year": "2022",
+   "kind": "series"
+  },
+  {
+   "title": "Colony",
+   "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "CSI",
+   "title": "Christmas With the Kranks",
+   "year": "2006",
+   "kind": "movie"
+  },
+  {
+   "title": "Gilmore Girls",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "John Wick: Chapter 4",
+   "year": "2023",
+   "kind": "movie"
+  },
+  {
+   "title": "The Good Wife",
    "year": null,
    "kind": "series"
   },
@@ -3333,53 +3377,53 @@
    "kind": "movie"
   },
   {
-   "title": "Never Stop Chasing",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Andy Griffith Show",
+   "title": "The Last Kingdom",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Weapons",
-   "year": "2025",
-   "kind": "movie"
-  },
-  {
-   "title": "The Fantastic 4: First Steps",
-   "year": "2025",
-   "kind": "movie"
-  },
-  {
-   "title": "Groundhog Day",
-   "year": "2007",
-   "kind": "movie"
-  },
-  {
-   "title": "The Polar Express",
-   "year": "2004",
-   "kind": "movie"
-  },
-  {
-   "title": "Colony",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Drop Dead Diva",
+   "title": "Full House",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Elf",
-   "year": "2003",
+   "title": "A Dog's Perfect Christmas",
+   "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "The Love Hypothesis",
+   "title": "The Hunting Wives",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Star Trek: Discovery",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Arrival",
+   "year": "2016",
+   "kind": "movie"
+  },
+  {
+   "title": "Die My Love",
+   "year": "2025",
+   "kind": "movie"
+  },
+  {
+   "title": "Twin Peaks",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Redux Redux",
    "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Doctor Strange in the Multiverse of Madness",
+   "year": "2022",
    "kind": "movie"
   },
   {
@@ -3388,38 +3432,33 @@
    "kind": "series"
   },
   {
-   "title": "Avatar: Fire and Ash",
-   "year": "2025",
+   "title": "The Lord of the Rings: The Fellowship of the Ring",
+   "year": "2001",
    "kind": "movie"
   },
   {
-   "title": "First Man",
-   "year": "2018",
-   "kind": "movie"
-  },
-  {
-   "title": "Sex and the City",
+   "title": "Andromeda",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Marvel's Agents of S.H.I.E.L.D.",
-   "year": null,
-   "kind": "series"
+   "title": "King Kong",
+   "year": "2005",
+   "kind": "movie"
   },
   {
-   "title": "How the Grinch Stole Christmas: The Ultimate Edition",
+   "title": "Nobody",
    "year": "2021",
    "kind": "movie"
   },
   {
-   "title": "The Matrix",
-   "year": "1999",
+   "title": "Rise of the Guardians",
+   "year": "2012",
    "kind": "movie"
   },
   {
-   "title": "One Battle After Another",
-   "year": "2025",
+   "title": "Shrek",
+   "year": "2001",
    "kind": "movie"
   },
   {
@@ -3428,103 +3467,43 @@
    "kind": "series"
   },
   {
-   "title": "Thunderbolts*",
-   "year": "2025",
-   "kind": "movie"
-  },
-  {
-   "title": "How to Train Your Dragon",
-   "year": "2025",
-   "kind": "movie"
-  },
-  {
-   "title": "Outlander",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "CSI: Miami",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Elementary",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Shrek",
-   "year": "2001",
-   "kind": "movie"
-  },
-  {
-   "title": "The Shawshank Redemption",
-   "year": "1994",
-   "kind": "movie"
-  },
-  {
-   "title": "Crown of Deceit: Inside the Miss Universe Scandal",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Spider-Man: Homecoming",
-   "year": "2017",
-   "kind": "movie"
-  },
-  {
-   "title": "Sherlock Holmes in the 22nd Century",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Fight Club",
-   "year": "1999",
-   "kind": "movie"
-  },
-  {
-   "title": "Madden",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Beware Boiúna",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Legend of Korra",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Tony",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "I Love Lucy",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Iron Man",
+   "title": "Hellboy II: The Golden Army",
    "year": "2008",
    "kind": "movie"
   },
   {
-   "title": "The Good Place",
+   "title": "The Matrix",
+   "year": "1999",
+   "kind": "movie"
+  },
+  {
+   "title": "Brooklyn Nine-Nine",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Bones",
+   "title": "Adventure Time",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Predator: Badlands",
-   "year": "2025",
+   "title": "Frosty the Snowman",
+   "year": "2021",
+   "kind": "movie"
+  },
+  {
+   "title": "Succession",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Tom Clancy's Jack Ryan",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Guardians of the Galaxy",
+   "year": "2014",
    "kind": "movie"
   },
   {
@@ -3533,67 +3512,17 @@
    "kind": "series"
   },
   {
-   "title": "Stargate SG-1",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Hell on Wheels",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Seeking Persephone",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Flintstones",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Nurse Jackie",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Ghosts",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "American Hostage",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "Steven Spielberg Presents: Tiny Toon Adventures",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Shadowhunters",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Black Sails",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Silicon Valley",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Masterplan",
-   "year": "2026",
+   "title": "Fight Club",
+   "year": "1999",
    "kind": "movie"
   },
   {
-   "title": "Full House",
+   "title": "The Strike Series",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Doctor Who, The Matt Smith Years",
    "year": null,
    "kind": "series"
   },
@@ -3603,137 +3532,62 @@
    "kind": "series"
   },
   {
-   "title": "The Fresh Prince of Bel-Air",
+   "title": "The Pitt, Seasons 1 & 2",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "The Five-Star Weekend",
+   "title": "Witch Hat Atelier (Original Japanese Version)",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Southern Charm",
+   "title": "Stargate Universe",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Band of Brothers",
+   "title": "Shadowhunters",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Californication",
+   "title": "Survivor",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "The Newsroom",
+   "title": "Dutton Ranch",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Treasure Island",
+   "title": "Casino Royale",
+   "year": "2006",
+   "kind": "movie"
+  },
+  {
+   "title": "Euphoria",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "American Hostage",
    "year": "2026",
    "kind": "series"
   },
   {
-   "title": "Ted",
+   "title": "My Dress-Up Darling",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Wild Horse Nine",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "The Real Housewives of London",
+   "title": "Kin",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Rudolph the Red-Nosed Reindeer",
-   "year": "2016",
-   "kind": "movie"
-  },
-  {
-   "title": "The Pitt",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Daniel and the Fiery Furnace",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Hey Arnold!",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "MacGyver (Original)",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "How to Rob a Bank",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Brooklyn Nine-Nine",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The 12 Dates of Christmas",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Newlyweds",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "Ghost Soldier",
-   "year": "2026",
-   "kind": "movie"
-  },
-  {
-   "title": "Columbo, The Complete Original Series",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Maze Runner",
-   "year": "2014",
-   "kind": "movie"
-  },
-  {
-   "title": "Below",
-   "year": "2026",
-   "kind": "series"
-  },
-  {
-   "title": "New Girl",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Tombstone",
-   "year": "1993",
-   "kind": "movie"
-  },
-  {
-   "title": "All's Fair",
-   "year": "2025",
-   "kind": "series"
-  },
-  {
-   "title": "Psych",
+   "title": "Frasier (Reboot)",
    "year": null,
    "kind": "series"
   },
@@ -3743,58 +3597,108 @@
    "kind": "series"
   },
   {
-   "title": "Tom and Jerry: Volumes 1-6",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Harry Potter and the Chamber of Secrets",
-   "year": "2002",
+   "title": "Young Washington",
+   "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "Hawaii Five-0 (Classic)",
+   "title": "Superman & Lois",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Titanic",
-   "year": "1997",
+   "title": "War Dogs",
+   "year": "2016",
    "kind": "movie"
   },
   {
-   "title": "Broad City: The Complete Series (Uncensored)",
+   "title": "Batman Beyond",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Brothers",
+   "title": "Shoresy",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "All's Fair",
+   "year": "2025",
+   "kind": "series"
+  },
+  {
+   "title": "Lie to Me",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Invader Zim",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Birdcage",
+   "year": "1996",
+   "kind": "movie"
+  },
+  {
+   "title": "Elementary",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Breeder",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Newlyweds",
    "year": "2026",
    "kind": "series"
   },
   {
-   "title": "Heated Rivalry",
+   "title": "Supergirl",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Superman",
-   "year": "2025",
+   "title": "Perfect Liars",
+   "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "The Notebook",
-   "year": "2004",
-   "kind": "movie"
-  },
-  {
-   "title": "Dollhouse",
+   "title": "Band of Brothers",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "Gladiator II",
-   "year": "2024",
+   "title": "Spartacus",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Andy Griffith Show",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Drama",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Teenage Mutant Ninja Turtles (1987)",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Nathan for You, Seasons 1-4",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Onslaught",
+   "year": "2026",
    "kind": "movie"
   },
   {
@@ -3803,18 +3707,68 @@
    "kind": "series"
   },
   {
-   "title": "The Truman Show",
-   "year": "1999",
-   "kind": "movie"
-  },
-  {
-   "title": "Drive - The Pretenders",
+   "title": "The History of Concrete",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "The Drama",
+   "title": "Doctor Who, The Peter Capaldi Years",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "One Battle After Another",
+   "year": "2025",
+   "kind": "movie"
+  },
+  {
+   "title": "The Twilight Zone (Original)",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Maze Runner",
+   "year": "2014",
+   "kind": "movie"
+  },
+  {
+   "title": "Yellowstone",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Tony",
    "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Clashing Through the Snow",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Columbo, The Complete Original Series",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Never Say Never Again",
+   "year": "1983",
+   "kind": "movie"
+  },
+  {
+   "title": "Iron Man 2",
+   "year": "2010",
+   "kind": "movie"
+  },
+  {
+   "title": "Masterplan",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "The Shawshank Redemption",
+   "year": "1994",
    "kind": "movie"
   },
   {
@@ -3823,47 +3777,27 @@
    "kind": "movie"
   },
   {
-   "title": "Spartacus",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Madam Secretary",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Crazy, Stupid, Love",
-   "year": "2011",
+   "title": "Oppenheimer",
+   "year": "2023",
    "kind": "movie"
   },
   {
-   "title": "Love & Hip Hop: The Final Chapter",
+   "title": "NCIS: Los Angeles",
    "year": null,
    "kind": "series"
   },
   {
-   "title": "The Twilight Zone (Original)",
-   "year": null,
+   "title": "Skyfall",
+   "year": "2012",
+   "kind": "movie"
+  },
+  {
+   "title": "Below",
+   "year": "2026",
    "kind": "series"
   },
   {
-   "title": "Burn Notice",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "1923: A Yellowstone Origin Story, Complete Series",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Ducktales (Original)",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "True Detective",
+   "title": "Tom and Jerry: Volumes 1-6",
    "year": null,
    "kind": "series"
   },
@@ -3873,70 +3807,130 @@
    "kind": "series"
   },
   {
-   "title": "Love of Your Life",
+   "title": "The Altruists",
+   "year": "2026",
+   "kind": "series"
+  },
+  {
+   "title": "Black Sails",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Dogma",
+   "year": "1999",
+   "kind": "movie"
+  },
+  {
+   "title": "Drive - The Pretenders",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "iCarly (Original)",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Castle",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Las Vegas",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Day of the Jackal",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Bad Apples",
-   "year": "2025",
-   "kind": "movie"
-  },
-  {
-   "title": "Comic Book Men",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "Gilligan's Island",
-   "year": null,
-   "kind": "series"
-  },
-  {
-   "title": "The Uprising",
+   "title": "The Devil Wears Prada 2",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "Coraline",
-   "year": "2009",
-   "kind": "movie"
+   "title": "Twisted Metal",
+   "year": null,
+   "kind": "series"
   },
   {
-   "title": "Sinners",
-   "year": "2025",
-   "kind": "movie"
+   "title": "Brothers",
+   "year": "2026",
+   "kind": "series"
   },
   {
-   "title": "UNABOMBER",
+   "title": "How to Rob a Bank",
    "year": "2026",
    "kind": "movie"
   },
   {
-   "title": "The Nightmare Before Christmas",
+   "title": "Rolling Loud: The Movie",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Solo Leveling",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Polar Express",
+   "year": "2004",
+   "kind": "movie"
+  },
+  {
+   "title": "Crazy, Stupid, Love",
+   "year": "2011",
+   "kind": "movie"
+  },
+  {
+   "title": "True Detective",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Tombstone",
    "year": "1993",
    "kind": "movie"
+  },
+  {
+   "title": "House",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "The Notebook",
+   "year": "2004",
+   "kind": "movie"
+  },
+  {
+   "title": "The Magicians",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Sports Night",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Wildwood",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Sherlock Holmes in the 22nd Century",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Eureka",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Bob’s Burgers, Seasons 1-5",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Chernobyl",
+   "year": null,
+   "kind": "series"
+  },
+  {
+   "title": "Moana",
+   "year": "2026",
+   "kind": "movie"
+  },
+  {
+   "title": "Murder, She Wrote",
+   "year": null,
+   "kind": "series"
   }
  ],
- "updated": "2026-11-20T18:59:46Z"
+ "updated": "2026-11-25T04:52:23Z"
 }
